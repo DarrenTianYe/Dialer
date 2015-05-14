@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"خارجی"</string>
+<string name="call_log_incoming_title">"آنے والی"</string>
+<string name="recentOutgoing_empty">"حال ہی میں جانے والی کالز نہیں ہیں"</string>
+<string name="recentIncoming_empty">"حال ہی میں آنے والی کالز نہیں ہیں"</string>
+<string name="view_setting">"منظر"</string>
+<string name="item_all_calls">"تمام کال لاگ"</string>
+<string name="item_sim_calls">"سم %d کال لاگز"</string>
+<string name="clear_all_call_log">" تمام کال لاگ کلیر کریں"</string>
+<string name="clear_selected_call_log">"منتخب کال لاگ کلیر کریں"</string>
+<string name="select_all">"سب منتخب"</string>
+<string name="unselect_all">"سب کوغیرمنتخب کریں"</string>
+<string name="sdn_list">"SDN فہرست"</string>
+<string name="lnd_list">"LND فہرست"</string>
+<string name="sim_no_ready">"Sim کارڈ تیار نہیں."</string>
+<string name="select_card">"براہ مہربانی کارڈ منتخب کریں"</string>
+<string name="fast_dial_settings">"تیز ڈائل ترتیبات"</string>
+<string name="call_ip">"۔IP کال"</string>
+<string name="ip_callNumber_by_sim_ex">"۔IP کال<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)""</string>
+<string name="no_available_number">"کوئی نمبر دستیاب نہیں"</string>
+<string name="send_mms">"پیغام بھیجیں"</string>
+<string name="no_fast_dial">"فاسٹ کال فون نمبر سیٹ نہیں"</string>
+<string name="menu_addToBlacklist">"بلیک لسٹ میں شامل کریں"</string>
+<string name="call_log_callNumber_by_sim_ex">"کال Call<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="video_callNumber_by_sim_ex">"ویڈیو کال <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"رابطہ دیکھیں"</string>
+<string name="menu_deleteFromBlacklist">"بلیک لسٹ سے حذف کریں"</string>
+<string name="success_addToBlacklist">"کامیابی میں شامل کریں"</string>
+<string name="failed_addToBlacklist">"ناکامی شامل کریں""</string>
+<string name="delete_calls">"حذف کریں"</string>
+<string name="delete_selected_calls">"کیا آپ کو یقین ہے کہ منتخب ریکارڈ کو حذف کر رہے ہیں"</string>
+<string name="delete_all_calls_confirm">"کیا آپ اپنے تمام ریکارڈ کو حذف کرنا چاہتے ہیں"</string>
+<string name="delete_contact_all_calls">"کیا آپ کو یقین ہے کہ آپ کال لاگ میں موجود کانٹیکٹس حذف کرنا چاہتے ہیں ؟"</string>
+<string name="call_log_contacts_not_save">"نامعلوم"</string>
+<string name="toast_no_activity_to_handle_intent">"جواب دینے کے لئے کوئی ایپلی کیشن نہیں "</string>
+<string name="search_description">"کال لاگ تلاش کریں"</string>
+<string name="doneButton">"ھوگیا"</string>
+<string name="cancel">"منسوخ کریں"</string>
+<string name="select_all_sprd">"سب منتخب"</string>
+<string name="sim_no_effect">"۔SIM غیر مؤثر ہو جاتی ہے "</string>
+<string name="delete_success">" حذف کامیاب"</string>
+<string name="error_icc_lock_dialog_message">"منتخب سم کارڈ اب بند کر دیا ہے"</string>
+<string name="insert_sim_card">" براہ مہربانی.سم کارڈ داخل کریں"</string>
+<string name="simx">"SIM"</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="applicationLabel">"ڈائلر"</string>
+<string name="launcherDialer">"فون"</string>
+<string name="dialerIconLabel">"فون"</string>
+<string name="recentCallsIconLabel">"کال لاگ ان کریں "</string>
+<string name="menu_sendTextMessage">"متنی پیغام بھیجیں"</string>
+<string name="recentCalls_callNumber">"کال کریں<xliff:g id="name">%s</xliff:g> "</string>
+<string name="recentCalls_editNumberBeforeCall">"کال سے پہلے نمبر میں ترمیم کریں"</string>
+<string name="recentCalls_addToContact">"رابطوں میں شامل کریں"</string>
+<string name="recentCalls_removeFromRecentList">"کال لاگ سے ہٹائیں"</string>
+<string name="recentCalls_deleteAll">"کال لاگ کو کلیر کریں"</string>
+<string name="recentCalls_trashVoicemail">"صوتی میل حذف کریں"</string>
+<string name="recentCalls_shareVoicemail">"صوتی میل کا اشتراک کریں"</string>
+<string name="recentCalls_empty">"کال لاگ خالی ہے. "</string>
+<string name="clearCallLogConfirmation_title">"کال لاگ کو کلیر کریں؟"</string>
+<string name="clearCallLogConfirmation">"آپ کے منتخب کال ریکارڈ کو خارج کر دیا جائے گا"</string>
+<string name="clearCallLogProgress_title">"کال لاگ صاف کر رہا ہے\u2026"</string>
+<plurals name="notification_voicemail_title">
+<item quantity="one">"وائس میل"</item>
+</plurals>
+<string name="notification_action_voicemail_play">"چلایں"</string>
+<string name="notification_voicemail_callers_list">"<xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g> "</string>
+<string name="notification_new_voicemail_ticker">"نئے وائس میل سے<xliff:g id="caller">%1$s</xliff:g>"</string>
+<string name="voicemail_playback_error">"صوتی میل نہیں چلا سکا"</string>
+<string name="voicemail_buffering">"بفر کر رہا ہے... "</string>
+<string name="voicemail_fetching_content">"صوتی میل نکال رہا ہے..."</string>
+<string name="voicemail_fetching_timout">"صوتی میل نہیں نکال سکا."</string>
+<string name="call_log_voicemail_header">"صرف صوتی میل کیساتھ کالز"</string>
+<string name="call_log_incoming_header">"صرف موصولہ کالز"</string>
+<string name="call_log_outgoing_header">"صرف خارجی کالز"</string>
+<string name="call_log_missed_header">"صرف رہ جانیوالی کالز "</string>
+<string name="voicemail_status_voicemail_not_available">"صوتی میل سرور سے منسلک نہیں کرسکتا۔ "</string>
+<string name="voicemail_status_messages_waiting">"وائس میل سرور سے رابطہ قائم نہیں کر سکتے. نئے میلز انتظار کر رہے ہیں"</string>
+<string name="voicemail_status_configure_voicemail">"اپنی صوتی میل کی ترتیب و تنظیم کریں۔"</string>
+<string name="voicemail_status_audio_not_available">"صوت دستیاب نہیں۔"</string>
+<string name="voicemail_status_action_configure">"ترتیب دیں"</string>
+<string name="voicemail_status_action_call_server">"صوتی میل کال کریں"</string>
+<string name="voicemail_speed_slowest">"سست رفتار"</string>
+<string name="voicemail_speed_slower">"سست رفتار"</string>
+<string name="voicemail_speed_normal">"عمومی رفتار"</string>
+<string name="voicemail_speed_faster">"تیز رفتار"</string>
+<string name="voicemail_speed_fastest">"تیز ترین رفتار"</string>
+<string name="call_log_item_count_and_date">"۔(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g>"</string>
+<string name="sms_disambig_title">"نمبر منتخب کریں"</string>
+<string name="call_disambig_title">"نمبر منتخب کریں"</string>
+<string name="make_primary">"یہ انتخاب یاد رکھیں"</string>
+<string name="description_image_button_one">"ایک"</string>
+<string name="description_image_button_two">"دو"</string>
+<string name="description_image_button_three">"تین"</string>
+<string name="description_image_button_four">"چار"</string>
+<string name="description_image_button_five">"پانچ"</string>
+<string name="description_image_button_six">"چھ"</string>
+<string name="description_image_button_seven">"سات"</string>
+<string name="description_image_button_eight">"آٹھ"</string>
+<string name="description_image_button_nine">"نو"</string>
+<string name="description_image_button_star">"ستارہ"</string>
+<string name="description_image_button_zero">"صفر"</string>
+<string name="description_image_button_pound">"پونڈ"</string>
+<string name="description_voicemail_button">"وائس میل"</string>
+<string name="description_search_button">"تلاش"</string>
+<string name="description_dial_button">"ڈائل کریں"</string>
+<string name="description_delete_button">"ایک حرف پیچھے جائیں"</string>
+<string name="description_digits_edittext">"ڈائل کرنے کے لئے نمبر"</string>
+<string name="action_menu_call_history_description">"کالز کی تاریخ"</string>
+<string name="action_menu_overflow_description">"مزید اختیارات"</string>
+<string name="action_menu_dialpad_button">"ڈائل پیڈ"</string>
+<string name="menu_copy">"نقل کریں"</string>
+<string name="menu_show_outgoing_only">"صرف مرسلہ دکھائیں"</string>
+<string name="menu_show_incoming_only">"صرف موصولہ دکھائیں"</string>
+<string name="menu_show_missed_only">"صرف رہ جانیوالی دکھائیں"</string>
+<string name="menu_show_voicemails_only">"صرف صوتی میلز دکھائیں"</string>
+<string name="menu_show_all_calls">"تمام کالز دکھائیں"</string>
+<string name="add_2sec_pause">" 2 سیکنڈ توقف شامل کریں"</string>
+<string name="add_wait">"انتظار شامل کریں"</string>
+<string name="call_settings">"کال ترتیبات"</string>
+<string name="menu_newContact">"نیا رابطہ"</string>
+<string name="menu_allContacts">"تمام روابط"</string>
+<string name="callDetailTitle">"کال کی تفصیلات"</string>
+<string name="toast_call_detail_error">"درخواست کردہ کال کی تفصیلات نہیں پڑھی جا سکی."</string>
+<string name="dialer_useDtmfDialpad">"ٹچ ٹون کلیدی تختہ استعمال کریں"</string>
+<string name="dialer_returnToInCallScreen">"موجودہ کال پر واپس جائیں"</string>
+<string name="dialer_addAnotherCall">"فون میں شامل کریں"</string>
+<string name="type_incoming">"آنیوالی کال"</string>
+<string name="type_outgoing">"جانیوالی کال"</string>
+<string name="type_missed">"ان سنی کال"</string>
+<string name="type_voicemail">"وائس میل"</string>
+<string name="actionIncomingCall">"آنے والی کال"</string>
+<string name="description_call_log_play_button">"صوتی میل چلائیں"</string>
+<string name="description_call_log_incoming_call">"آنیوالی کال"</string>
+<string name="description_call_log_outgoing_call">"جانیوالی کال"</string>
+<string name="description_call_log_missed_call">"ان سنی کال"</string>
+<string name="description_call_log_voicemail">"وائس میل"</string>
+<string name="description_add_contact">"　رابطہ شامل کریں"</string>
+<string name="description_view_contact">"رابطہ دیکھیں <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_call">"کال کریں <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_send_text_message">"کو متن بھیجیں <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_call_log_unheard_voicemail">"ان سنی صوتی میل"</string>
+<string name="description_start_voice_search">"آواز کی تلاش شروع"</string>
+<string name="call_log_empty_gecode">"\u0020"</string>
+<string name="menu_callNumber">"کال کریں <xliff:g id="number">%s</xliff:g>"</string>
+<string name="unknown">"نامعلوم"</string>
+<string name="voicemail">"وائس میل"</string>
+<string name="private_num">"ذاتی نمبر"</string>
+<string name="payphone">"ادائیگی والا فون "</string>
+<string name="dialerKeyboardHintText">"ڈائل کرنے کے لئے کلیدی تختہ استعمال کریں"</string>
+<string name="dialerDialpadHintText">"ایک کال شامل کرنے کے لئے ڈائل کریں"</string>
+<string name="callDetailsDurationFormat">"۔<xliff:g id="minutes" example="42">%s</xliff:g> منٹ <xliff:g id="seconds" example="28">%s</xliff:g> سیکنڈ"</string>
+<string name="dialog_phone_call_prohibited_message">"کال نہیں بھیجا "</string>
+<string name="dialog_voicemail_not_ready_message">"وائس میل کی تعداد دستیاب نہیں ہے:، وائس میل سیٹ اپ مینو میں جائیں&amp;gt; کال ترتیبات پر"</string>
+<string name="dialog_voicemail_airplane_mode_message">"صوتی میل کو کال کرنے کیلئے، پہلے ہوائی جہازموڈ آف کریں۔"</string>
+<string name="contact_list_loading">"لوڈنگ\u2026"</string>
+<string name="imei">"IMEI"</string>
+<string name="simContacts_emptyLoading">"SIM کارڈ سے لوڈ کر رہا ہےu2026\"</string>
+<string name="simContacts_title">"SIM کارڈ کے رابطے"</string>
+<string name="add_contact_not_available">"اس سہولت کا استعمال کرنے کے لئے لوگوں کی درخواست کو دوبارہ فعال کریں"</string>
+<string name="dialer_hint_find_contact">"ایک نام یا فون نمبر درج کریں"</string>
+<string name="call_log_all_title">"تمام"</string>
+<string name="call_log_missed_title">"رہ جانیوالی"</string>
+<string name="recentMissed_empty">"حال ہی میں کوئی کال مس نہیں ہوئی  "</string>
+<string name="recentVoicemails_empty">"کوئی حالیہ میلز نہیں ہیں"</string>
+<string name="show_all_contacts">"تمام رابطوں دکھائیں"</string>
+<string name="show_favorites_only">" صرف پسندیدہ دکھائیں "</string>
+<string name="call_log_activity_title">"تفصیل"</string>
+<string name="show_all_contacts_title">"تمام روابط"</string>
+<string name="show_all_contacts_button_text">"تمام روابط"</string>
+<string name="favorite_hidden">"پسندیدہ سے ہٹا دیا"</string>
+<string name="favorite_hidden_undo">"کالعدم کریں"</string>
+<string name="search_shortcut_call_number">"کال کریں <xliff:g id="number">%s</xliff:g> "</string>
+<string name="search_shortcut_add_to_contacts">"رابطوں میں شامل کریں"</string>
+<string name="num_missed_calls">"نئی مس کالز<xliff:g id="number">%s</xliff:g>"</string>
+<string name="no_favorites">"وہ پسندیدہ کانٹیکٹس جن پر آپ \n اکثر کال کرتے ہیں وہ یہاں ظاہر ہوں گے \n، تو کال کرنا شروع کریں "</string>
+<string name="contact_tooltip">"تمام نمبرز کو دیکھنے کے لیے تصویر کو ٹیپ کریں یا پریس اور ہولڈ کریں دوبارہ ترتیب دینے کے لیے"</string>
+<string name="description_dismiss">"برخاست کریں"</string>
+</resources>

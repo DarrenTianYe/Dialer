@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"আউটগ\'য়িং"</string>
+<string name="call_log_incoming_title">"ইনকামিং"</string>
+<string name="recentOutgoing_empty">"কোনো শেহতীয়া আউটগ\'য়িং কল নাই"</string>
+<string name="recentIncoming_empty">"কোনো শেহতীয়া ইনকামিং কল নাই"</string>
+<string name="view_setting">"চাওক"</string>
+<string name="item_all_calls">"সকলো কল ল\'গ"</string>
+<string name="item_sim_calls">"SIM%d কল ল\'গ"</string>
+<string name="clear_all_call_log">"সকলো কল ল\'গ চাফা কৰক"</string>
+<string name="clear_selected_call_log">"নির্বাচিত কল ল\'গ চাফা কৰক"</string>
+<string name="select_all">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="unselect_all">"আটাইবোৰ নিৰ্বাচন নাকচ"</string>
+<string name="sdn_list">"SDN লিষ্ট"</string>
+<string name="lnd_list">"LND লিষ্ট"</string>
+<string name="sim_no_ready">"SIM কার্ড ৰেডী হোৱা নাই"</string>
+<string name="select_card">"অনুগ্ৰহ কৰি কার্ডখন চিলেক্ট কৰক"</string>
+<string name="fast_dial_settings">"ফাষ্ট ডায়েল চেটিং সমুহ"</string>
+<string name="call_ip">"IP কল"</string>
+<string name="ip_callNumber_by_sim_ex">"IP কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"কোনো নম্বৰ পাব পৰা অৱস্থাত নাই"</string>
+<string name="send_mms">"মেছেজ প্ৰেৰণ কৰক"</string>
+<string name="no_fast_dial">"তাৎক্ষণিক ফোনকলৰ নম্বৰ ছেট কৰা হোৱা নাই"</string>
+<string name="menu_addToBlacklist">"ব্লেকলিষ্ট যোগ কৰক"</string>
+<string name="call_log_callNumber_by_sim_ex">"কল <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ভিডিঅ’ কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"কণ্টেক্ট চাওঁক"</string>
+<string name="menu_deleteFromBlacklist">"ব্লেকলিষ্টৰ পৰা ডে\'লিট কৰক"</string>
+<string name="success_addToBlacklist">"সংযোজন সফল"</string>
+<string name="failed_addToBlacklist">"সংযোজন বিফল"</string>
+<string name="delete_calls">"মচি দিয়া"</string>
+<string name="delete_selected_calls">"নির্বাচিত তথ্য মচি পেলাবলৈ আপুনি নিশ্চিত নে ?"</string>
+<string name="delete_all_calls_confirm">"আপোনাৰ সকলো তথ্য মচি পেলাবলৈ আপুনি বিচাৰে নে ?"</string>
+<string name="delete_contact_all_calls">"কন্টেক্টৰ তালিকাভুক্ত কল ল\'গবোৰ মচি পেলাবলৈ আপুনি নিশ্চিত নে ?"</string>
+<string name="call_log_contacts_not_save">"অজ্ঞাত"</string>
+<string name="toast_no_activity_to_handle_intent">"প্ৰতিক্ৰিয়া দেখুওৱাবলৈ কোনো এপ্লিকেচন নাই"</string>
+<string name="search_description">"কল লগ বিচাৰক"</string>
+<string name="doneButton">"হৈ গৈছে"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="select_all_sprd">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="sim_no_effect">"SIM অবৈধ"</string>
+<string name="delete_success">"ডে\'লিট সফল হ\'ল"</string>
+<string name="error_icc_lock_dialog_message">"নির্বাচিত SIM কার্ড এতিয়া লক হৈছে"</string>
+<string name="insert_sim_card">"অনুগ্ৰহ কৰি SIM কার্ড ভৰাওক"</string>
+<string name="simx">"SIM"</string>
+</resources>

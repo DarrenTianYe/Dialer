@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="applicationLabel">"تېلېفون ئۇرۇغۇچ"</string>
+<string name="launcherDialer">"تىلفۇن"</string>
+<string name="dialerIconLabel">"تىلفۇن"</string>
+<string name="recentCallsIconLabel">"تىلفۇن خاتېرسى"</string>
+<string name="menu_sendTextMessage">"ئۇچۇر يوللاش"</string>
+<string name="recentCalls_callNumber">"نى چاقىرىش <xliff:g id="name">%s</xliff:g> "</string>
+<string name="recentCalls_editNumberBeforeCall">"ئۇرۇشتىن ئاۋۋال نۇمۇرنى تەھرىرلەڭ"</string>
+<string name="recentCalls_addToContact">"ئالاقىلاشقۇچىغا قوشامسىز"</string>
+<string name="recentCalls_removeFromRecentList">"سۆزلىشىش خاتىرىسىدىن ئۆچۈرۈش"</string>
+<string name="recentCalls_deleteAll">"سۆزلىشىش خاتىرىسىنى بىكارلاش"</string>
+<string name="recentCalls_trashVoicemail">"ئۈنخەتنى ئۆچۈرۈش"</string>
+<string name="recentCalls_shareVoicemail">"ئۈنخەتنى ھەمبەھىرلەش"</string>
+<string name="recentCalls_empty">"تىلفۇن خاتېرسى قۇرۇق."</string>
+<string name="clearCallLogConfirmation_title">"سۆزلىشىش خاتىرىسىنى بىكارلامسىز؟"</string>
+<string name="clearCallLogConfirmation">"سىز تاللىغان سۆزلىشىش خاتىرىسى يۇيۇلىدۇ"</string>
+<string name="clearCallLogProgress_title">"تېلېفۇن خاتىرىسىنى تازىلاۋاتىدۇ\u2026"</string>
+<plurals name="notification_voicemail_title">
+<item quantity="one">"ئۈنخەت"</item>
+</plurals>
+<string name="notification_action_voicemail_play">"قۇيۇش"</string>
+<string name="notification_voicemail_callers_list">"<xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g> "</string>
+<string name="notification_new_voicemail_ticker">"دىن كەلگەن يېڭى ئاۋازلىق ئېلىخەت<xliff:g id="caller">%1$s</xliff:g>"</string>
+<string name="voicemail_playback_error">"ئۈنخەتنى قويغىلى بولمىدى"</string>
+<string name="voicemail_buffering">"‏‏بۇففېرلاۋاتىدۇ\u2026"</string>
+<string name="voicemail_fetching_content">"ئۈنخەتنى تۇتىۋاتىدۇ\u2026"</string>
+<string name="voicemail_fetching_timout">"ئۈنخەتنى تۇتقىلى بولمىدى."</string>
+<string name="call_log_voicemail_header">"ئاۋازلىق ئېلىخەتتىكى قالدۇرۇلغان گەپلەرنىلا كۆرسىتىش"</string>
+<string name="call_log_incoming_header">"كەلگەن سۆزلىشىشنىلا كۆرسىتىش"</string>
+<string name="call_log_outgoing_header">"سىرتقا ئۇرۇلغان سۆزلىشىشنىلا كۆرسىتىش"</string>
+<string name="call_log_missed_header">"ئۇلانمىغان سۆزلىشىشنىلا كۆرسىتىش"</string>
+<string name="voicemail_status_voicemail_not_available">"ئۈنخەت مۇلازىمىتىرىغا ئۇلىغىلى بولمايدۇ."</string>
+<string name="voicemail_status_messages_waiting">"ئاۋازلىق ئېلىخەت مۇلازىمىتىگە ئۇلىنالمىدى. يېڭى ئاۋازلىق ئېلىخەتلەر قۇبۇل قىلىنىشنى كۈتىۋاتىدۇ"</string>
+<string name="voicemail_status_configure_voicemail">"ئۈنخەت ساندۇقىڭىزنى تەڭشەڭ."</string>
+<string name="voicemail_status_audio_not_available">"ئۈننى ئىشلەتكىلى بولمىدى."</string>
+<string name="voicemail_status_action_configure">"تەڭشەش"</string>
+<string name="voicemail_status_action_call_server">"ئۈنخەتنى تاللاش"</string>
+<string name="voicemail_speed_slowest">"ئەڭ ئاستا سۈرئەت"</string>
+<string name="voicemail_speed_slower">"ئاستا سۈرئەت"</string>
+<string name="voicemail_speed_normal">"نورمال سۈرئەت"</string>
+<string name="voicemail_speed_faster">"تېز سۈرئەت"</string>
+<string name="voicemail_speed_fastest">"ئەڭ تېز سۈرئەت"</string>
+<string name="call_log_item_count_and_date">"(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g>"</string>
+<string name="sms_disambig_title">"نۇمۇرنى تاللاش"</string>
+<string name="call_disambig_title">"نۇمۇرنى تاللاش"</string>
+<string name="make_primary">"بۇ تاللاشنى ئەستە تۇتۇش"</string>
+<string name="description_image_button_one">"بىر"</string>
+<string name="description_image_button_two">"ئىككى"</string>
+<string name="description_image_button_three">"ئۈچ"</string>
+<string name="description_image_button_four">"تۆت"</string>
+<string name="description_image_button_five">"بەش"</string>
+<string name="description_image_button_six">"ئالتە"</string>
+<string name="description_image_button_seven">"يەتتە"</string>
+<string name="description_image_button_eight">"سەككىز"</string>
+<string name="description_image_button_nine">"توققۇز"</string>
+<string name="description_image_button_star">"يۇلتۇز"</string>
+<string name="description_image_button_zero">"نۆل"</string>
+<string name="description_image_button_pound">"پوند ستېرلىڭ"</string>
+<string name="description_voicemail_button">"ئۈنخەت"</string>
+<string name="description_search_button">"ئىزدەش"</string>
+<string name="description_dial_button">"ئۇرۇش"</string>
+<string name="description_delete_button">"ئارقىغا قايتىش كۇنۇپكىسى"</string>
+<string name="description_digits_edittext">"ئۇرۇلىدىغان نۇمۇر"</string>
+<string name="action_menu_call_history_description">"سۆزلىشىش تارىخى"</string>
+<string name="action_menu_overflow_description">"تېخىمۇ كۆپ تاللاش"</string>
+<string name="action_menu_dialpad_button">"نۇمۇر ئۇرۇش تاختىسى"</string>
+<string name="menu_copy">"كوپيەلەش"</string>
+<string name="menu_show_outgoing_only">"سىرتقا ئۇرۇلغان سۆزلىشىشنىلا كۆرسىتىش"</string>
+<string name="menu_show_incoming_only">"كەلگەن سۆزلىشىشنىلا كۆرسىتىش"</string>
+<string name="menu_show_missed_only">"ئۇلانمىغان سۆزلىشىشنىلا كۆرسىتىش"</string>
+<string name="menu_show_voicemails_only">"ئۈنخەتنىلا كۆرسىتىش"</string>
+<string name="menu_show_all_calls">"ھەممە تېلېفۇن چاقىرىقىنى كۆرسىتىش"</string>
+<string name="add_2sec_pause">"ۋاقىتلىق توختاشنى 2سېكۇنت ئۇزارتىش"</string>
+<string name="add_wait">"ساقلاش ۋاقتىنى ئۇزارتىش"</string>
+<string name="call_settings">"سۆزلىشىش چېكى"</string>
+<string name="menu_newContact">"يېڭى ئالاقىلىشىش"</string>
+<string name="menu_allContacts">"ھەممە ئالاقلاشقۇچىلار"</string>
+<string name="callDetailTitle">"سۆزلىشىشن ئىنچىكە ئەھۋالى"</string>
+<string name="toast_call_detail_error">"تەلەپ قىلىنغان سۆزلىشىشنىڭ تەپسىلاتىنى ئوقۇيالمىدى"</string>
+<string name="dialer_useDtmfDialpad">"بېسىش شەكلىدىكى كۇنۇپكا تاختىسىنى ئىشلىتىش"</string>
+<string name="dialer_returnToInCallScreen">"داۋاملىشىۋاتقان سۆزلىشىشكە قايتىش"</string>
+<string name="dialer_addAnotherCall">"سۆزلىشىشنى قېتىش"</string>
+<string name="type_incoming">"كەلگەن تېلېفون"</string>
+<string name="type_outgoing">"ئۇرۇلغان تېلېفون"</string>
+<string name="type_missed">"ئېلىنمىغان تېلېفون"</string>
+<string name="type_voicemail">"ئۈنخەت"</string>
+<string name="actionIncomingCall">"كەلگەن تېلېفونلار"</string>
+<string name="description_call_log_play_button">"ئۈنخەتنى قويۇش"</string>
+<string name="description_call_log_incoming_call">"كەلگەن تېلېفون"</string>
+<string name="description_call_log_outgoing_call">"ئۇرۇلغان تېلېفون"</string>
+<string name="description_call_log_missed_call">"ئېلىنمىغان تېلېفون"</string>
+<string name="description_call_log_voicemail">"ئۈنخەت"</string>
+<string name="description_add_contact">"ئالاقلاشقۇچى كۆپەيتىش"</string>
+<string name="description_view_contact">"نى كۆرۈش<xliff:g id="name">%1$s</xliff:g>ئالاقىلاشقۇچى "</string>
+<string name="description_call">"نى چاقىرىش<xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_send_text_message">"غا ئۇچۇر يوللاش<xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_call_log_unheard_voicemail">"ئاڭلىمىغان ئۈنخەت"</string>
+<string name="description_start_voice_search">"ئاۋازلىق ئىزدەشنى باشلاش"</string>
+<string name="call_log_empty_gecode">"\u0020"</string>
+<string name="menu_callNumber">"نى چاقىرىش <xliff:g id="number">%s</xliff:g>"</string>
+<string name="unknown">"بىلىنمىگەن"</string>
+<string name="voicemail">"ئۈنخەت"</string>
+<string name="private_num">"خاس نۇمۇر"</string>
+<string name="payphone">"ئاممىۋىي تېلېفون"</string>
+<string name="dialerKeyboardHintText">"كۇنۇپكا تاختىسى ئارقىلىق تېلېفون قىلىش"</string>
+<string name="dialerDialpadHintText">"ئۇرۇش ئارقىلىق سۆزلىشىشنى قوشۇش"</string>
+<string name="callDetailsDurationFormat">" سېكۇنت<xliff:g id="seconds" example="28">%s</xliff:g> مىنۇت<xliff:g id="minutes" example="42">%s</xliff:g> "</string>
+<string name="dialog_phone_call_prohibited_message">"چاقىرىشقا ئامالسىز"</string>
+<string name="dialog_voicemail_not_ready_message">"ئاۋازلىق ئېلىخەت نۇمۇرى ئىناۋەتسىز: ئاۋازلىق ئېلىخەتنى تەڭشەش ئۈچۈن سۆزلىشىشنى تەڭشەش تىزىملىكىگە كىرىڭ"</string>
+<string name="dialog_voicemail_airplane_mode_message">"ئۈنخەت يوللاش ئۈچۈن، ئايروپىلان ھالىتىنى ئېتىڭ."</string>
+<string name="contact_list_loading">"يۈكلەۋاتىدۇ\u2026"</string>
+<string name="imei">"IMEI"</string>
+<string name="simContacts_emptyLoading">"...كارتىدىن يۈكلەۋاتىدۇSIM"</string>
+<string name="simContacts_title">"كارتا ئالاقىلاشقۇچىلىرىSIM"</string>
+<string name="add_contact_not_available">"ئالاقىلاشقۇچىلار ئەپىنى قايتا قوزغاتقاندىلا ئاندىن بۇ ئىقتىدارنى ئىشلىتەلەيسىز"</string>
+<string name="dialer_hint_find_contact">"ئىسمىنى ياكى تېلېفون نۇمۇرىنى كىرگۈزۈڭ"</string>
+<string name="call_log_all_title">"ھەممە"</string>
+<string name="call_log_missed_title">"ئېلىنمىغان"</string>
+<string name="recentMissed_empty">"يېقىندا قۇبۇل قىلىنمىغان تېلېفون يوق"</string>
+<string name="recentVoicemails_empty">"يېقىنقى ئاۋازلىق ئېلىخەتلەر يوق"</string>
+<string name="show_all_contacts">"بارلىق"</string>
+<string name="show_favorites_only">"دائىملىق ئالاقىلاشقۇچىلارنىلا كۆرسىتىش"</string>
+<string name="call_log_activity_title">"تارىخچە"</string>
+<string name="show_all_contacts_title">"ھەممە ئالاقلاشقۇچىلار"</string>
+<string name="show_all_contacts_button_text">"ھەممە ئالاقلاشقۇچىلار"</string>
+<string name="favorite_hidden">"دائىملىق ئالاقىلاشقۇچىلاردىن يۆتكەش"</string>
+<string name="favorite_hidden_undo">"يېنىۋالماق"</string>
+<string name="search_shortcut_call_number">"نى چاقىرىش <xliff:g id="number">%s</xliff:g> "</string>
+<string name="search_shortcut_add_to_contacts">"ئالاقىلاشقۇچىغا قوشامسىز"</string>
+<string name="num_missed_calls">"دانە يېڭى ئېلىنمىغان تېلېفونلار<xliff:g id="number">%s</xliff:g>"</string>
+<string name="no_favorites">"ھازىرلا تېلېفون قىلىشنى باشلاڭ\n .دائىم تېلېفون قىلىدىغان دائىمي ئالاقىلاشقۇچىلار ۋە ئالاقىلاشقۇچىلار بۇ يەردە كۆرسىتىلىدۇ \nسىز "</string>
+<string name="contact_tooltip">"رەسىمنى چېكىش ئارقىلىق بارلىق نۇمۇرلارنى كۆرگىلى بولىدۇ، ياكى ئۇزۇن بېسىپ تۇرۇش ئارقىلىق قايتىدىن رەتكە تىزىڭ"</string>
+<string name="description_dismiss">"تارقىلىش"</string>
+</resources>

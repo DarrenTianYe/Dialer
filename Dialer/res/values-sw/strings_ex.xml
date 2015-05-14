@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Inatoka"</string>
+<string name="call_log_incoming_title">"Inaingia"</string>
+<string name="recentOutgoing_empty">"Hakuna simu za kutoka za hivi punde."</string>
+<string name="recentIncoming_empty">"Hakuna simu za kuingia za hivi punde."</string>
+<string name="view_setting">"Tazama"</string>
+<string name="item_all_calls">"Kumbukumbu zote za simu"</string>
+<string name="item_sim_calls">"Kumbukumbu za simu za SIM%d"</string>
+<string name="clear_all_call_log">"Futa kumbukumbu zote za simu"</string>
+<string name="clear_selected_call_log">"Futa kumbukumbu zilizochaguliwa za simu"</string>
+<string name="select_all">"Chagua Zote"</string>
+<string name="unselect_all">"Wacha kuchagua zote"</string>
+<string name="sdn_list">"Orodha ya SDN"</string>
+<string name="lnd_list">"Orodha ya SDN"</string>
+<string name="sim_no_ready">"Kadi ya sim haiko tayari."</string>
+<string name="select_card">"Tafadhali chagua kadi"</string>
+<string name="fast_dial_settings">"ukarabati wa ubonyezaji haraka"</string>
+<string name="call_ip">"Simu ya IP"</string>
+<string name="ip_callNumber_by_sim_ex">"Simu ya IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Hakuna nambari zinazopatikana"</string>
+<string name="send_mms">"Tuma ujumbe"</string>
+<string name="no_fast_dial">"Nambari ya simu ya pigia haraka haijawekwa"</string>
+<string name="menu_addToBlacklist">"Ongeza kwa orodha nyeusi"</string>
+<string name="call_log_callNumber_by_sim_ex">"Pigia simu<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Simu ya Video<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"Simu ya IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Tazama wasiliani"</string>
+<string name="menu_deleteFromBlacklist">"Futa kutoka kwenye orodha nyeusi"</string>
+<string name="success_addToBlacklist">"Uongezaji umefanikiwa"</string>
+<string name="failed_addToBlacklist">"Uongezaji umeshindwa"</string>
+<string name="delete_calls">"Futa"</string>
+<string name="delete_selected_calls">"Una uhakika kufutaa rekodi zilizochaguliwa"</string>
+<string name="delete_all_calls_confirm">"Unataka kufuta rekodi za zako zote?"</string>
+<string name="delete_contact_all_calls">"Una uhakika kufuta kumbukumbu za simu zilizochaguliwa za wasiliani?"</string>
+<string name="call_log_contacts_not_save">"Haijulikani"</string>
+<string name="toast_no_activity_to_handle_intent">"Hakuna programu tumizi ya kujibu!"</string>
+<string name="search_description">"Tafuta Kumbukumbu ya simu"</string>
+<string name="doneButton">"Umemaliza"</string>
+<string name="cancel">"Batilisha"</string>
+<string name="select_all_sprd">"Chagua Zote"</string>
+<string name="sim_no_effect">"Batilisha SIM"</string>
+<string name="delete_success">"Futa imefaulu"</string>
+<string name="error_icc_lock_dialog_message">"Kadi ya SIM iliyochaguliwa sasa imefungwa."</string>
+<string name="insert_sim_card">"Tafadhali ingiza kadi ya SIM."</string>
+<string name="simx">"SIM"</string>
+</resources>

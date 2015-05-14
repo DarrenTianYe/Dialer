@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"বহির্গামী"</string>
+<string name="call_log_incoming_title">"ইনকামিং"</string>
+<string name="recentOutgoing_empty">"কোন সাম্প্রতিক বহির্গামী কল নেই"</string>
+<string name="recentIncoming_empty">"কোন সাম্প্রতিক ইনকামিং কল নেই"</string>
+<string name="view_setting">"দেখা"</string>
+<string name="item_all_calls">"সমস্ত কল লগসমূহ"</string>
+<string name="item_sim_calls">"SIM%d কল লগসমূহ"</string>
+<string name="clear_all_call_log">" সব কল লগ সাফ"</string>
+<string name="clear_selected_call_log">"নির্বাচিত কল লগ সাফ"</string>
+<string name="select_all">"সব নির্বাচন"</string>
+<string name="unselect_all">"সব অনিবাচন"</string>
+<string name="sdn_list">"SDN তালিকা"</string>
+<string name="lnd_list">"LND তালিকা"</string>
+<string name="sim_no_ready">"Sim কার্ড প্রস্তুত নয়"</string>
+<string name="select_card">"কার্ড নির্বাচন করুন"</string>
+<string name="fast_dial_settings">"দ্রুত ডায়াল সেটিংস"</string>
+<string name="call_ip">"IP কল"</string>
+<string name="ip_callNumber_by_sim_ex">"IP কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="no_available_number">"কোন নম্বর পাওয়া যায়নি"</string>
+<string name="send_mms">"বার্তা পাঠান"</string>
+<string name="no_fast_dial">"দ্রুত কল ফোন নম্বর সেট না"</string>
+<string name="menu_addToBlacklist">"কালোতালিকায় যোগ করুন"</string>
+<string name="call_log_callNumber_by_sim_ex">"কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ভিডিও কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"পরিচিতি দেখতে"</string>
+<string name="menu_deleteFromBlacklist">"কালোতালিকা থেকে মুছে দিন"</string>
+<string name="success_addToBlacklist">"সাফল্য যোগ করুন"</string>
+<string name="failed_addToBlacklist">"যোগ করুন ব্যর্থ হয়েছে"</string>
+<string name="delete_calls">"মুছে দিন"</string>
+<string name="delete_selected_calls">"আপনি কি নিশ্চিত নির্বাচিত রেকর্ড মুছে দিতে?""</string>
+<string name="delete_all_calls_confirm">"আপনি আপনার সব রেকর্ড মুছে ফেলতে চান?"</string>
+<string name="delete_contact_all_calls">"আপনি তালিকাভুক্ত পরিচিতি কল লগসমূহ মুছে ফেলতে নিশ্চিত?"</string>
+<string name="call_log_contacts_not_save">"অজানা"</string>
+<string name="toast_no_activity_to_handle_intent">"কোন অ্যাপ্লিকেশন প্রতিক্রিয়া নেই !"</string>
+<string name="search_description">"কললগ অনুসন্ধান করুন "</string>
+<string name="doneButton">"সম্পন্ন"</string>
+<string name="cancel">"বাতিল"</string>
+<string name="select_all_sprd">"সব নির্বাচন"</string>
+<string name="sim_no_effect">"SIM বাতিল"</string>
+<string name="delete_success">"মুছে ফেলা সফল "</string>
+<string name="error_icc_lock_dialog_message">"নির্বাচিত SIM কার্ড এখন লক আছে."</string>
+<string name="insert_sim_card">"SIM কার্ড সন্নিবেশ করুন."</string>
+<string name="simx">"SIM"</string>
+</resources>

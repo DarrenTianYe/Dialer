@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Odcházející"</string>
+<string name="call_log_incoming_title">"Příchozí"</string>
+<string name="recentOutgoing_empty">"Žádné nedávné odcházející hovory."</string>
+<string name="recentIncoming_empty">"Žádné nedávné příchozí hovory."</string>
+<string name="view_setting">"Náhled"</string>
+<string name="item_all_calls">"Všechny přihlášení hovoru"</string>
+<string name="item_sim_calls">"Přihlášení hovoru SIM %d"</string>
+<string name="clear_all_call_log">"Vymazat všechny přihlášení hovoru"</string>
+<string name="clear_selected_call_log">"Vymazat zvolené přihlášení hovoru"</string>
+<string name="select_all">"Vybrat vše"</string>
+<string name="unselect_all">"Zrušit všechno"</string>
+<string name="sdn_list">"SDN seznam"</string>
+<string name="lnd_list">"LND seznam"</string>
+<string name="sim_no_ready">"Sim karta není připravena."</string>
+<string name="select_card">"Prosím, zvolte kartu"</string>
+<string name="fast_dial_settings">"Rychlé nastavení vytáčení"</string>
+<string name="call_ip">"IP volání"</string>
+<string name="ip_callNumber_by_sim_ex">"IP hovor<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Nejsou dostupné žádné čísla"</string>
+<string name="send_mms">"Odeslat zprávu"</string>
+<string name="no_fast_dial">"Číslo rychlého telefonního hovoru není nastaveno"</string>
+<string name="menu_addToBlacklist">"Přidat k černé listině"</string>
+<string name="call_log_callNumber_by_sim_ex">"Hovor<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Videohovor<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Vidět kontakt"</string>
+<string name="menu_deleteFromBlacklist">"Vymazat z černé listiny"</string>
+<string name="success_addToBlacklist">"Přidání úspěšné"</string>
+<string name="failed_addToBlacklist">"Přidání se nepovedlo"</string>
+<string name="delete_calls">"Smazat"</string>
+<string name="delete_selected_calls">"Chcete skutečně vymazat zvolené záznamy"</string>
+<string name="delete_all_calls_confirm">"Chcete vymazat všechny vaše záznamy?"</string>
+<string name="delete_contact_all_calls">"Chcete skutečně vymazat kontakt jeho vyjmenované přihlášení hovoru?"</string>
+<string name="call_log_contacts_not_save">"Neznámé"</string>
+<string name="toast_no_activity_to_handle_intent">"Žádná aplikace na odpověď!"</string>
+<string name="search_description">"Vyhledat Přihlášení hovoru"</string>
+<string name="doneButton">"Hotovo"</string>
+<string name="cancel">"Zrušit"</string>
+<string name="select_all_sprd">"Vybrat vše"</string>
+<string name="sim_no_effect">"Zrušit SIM"</string>
+<string name="delete_success">"Vymazání úspěšné"</string>
+<string name="error_icc_lock_dialog_message">"Zvolená SIM karta je teď uzamčená."</string>
+<string name="insert_sim_card">"Prosím, vložte SIM kartu."</string>
+<string name="simx">"SIM"</string>
+</resources>

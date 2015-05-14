@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sprd Add-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+        <!-- SPRD: Add by SPRD @{ -->
+    <string name="menu_addToBlacklist">添加至黑名单</string>
+    <string name="call_log_callNumber_by_sim_ex">"呼叫<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+    <string name="video_callNumber_by_sim_ex">"视频呼叫<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+    <string name="ip_callNumber_by_sim_ex">"IP呼叫<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+    <string name="menu_viewContact">查看联系人</string>
+    <string name="menu_deleteFromBlacklist">从黑名单中删除</string>
+    <string name="success_addToBlacklist">已成功添加到黑名单</string>
+    <string name="failed_addToBlacklist">添加到黑名单失败</string>
+    <string name="delete_calls">删除通话记录</string>
+    <string name="delete_selected_calls">您确定要删除选中的通话记录吗?</string>
+    <string name="delete_all_calls_confirm">您确定要删除所有通话记录?</string>
+    <string name="delete_contact_all_calls">您确定要删除该联系人的所列通话记录吗?</string>
+    <string name="call_log_contacts_not_save">未知</string>
+    <string name="call_log_outgoing_title">已拨</string>
+    <string name="call_log_incoming_title">已接</string>
+    <string name="recentOutgoing_empty">最近没有已拨电话。</string>
+    <string name="recentIncoming_empty">最近没有已接来电。</string>
+    <string name="clear_all_call_log">删除所有通话记录</string>
+    <string name="clear_selected_call_log">删除选中的通话记录</string>
+    <string name="select_all">选择全部</string>
+    <string name="unselect_all">取消全选</string>
+    <string name="view_setting">查看</string>
+    <string name="item_all_calls">所有通话记录</string>
+    <string name="item_sim_calls">SIM%d 通话记录</string>
+    <string name="select_card">请选择SIM卡</string>
+    <string name="no_fast_dial">当前按键未设置快速拨号电话号码</string>
+
+    <string name="sdn_list">"SDN 列表"</string>
+    <string name="lnd_list">"LND 列表"</string>
+    <string name="fast_dial_settings">"快速拨号设置"</string>
+    <string name="no_available_number">"无可用号码"</string>
+    <string name="call_ip">"IP拨号"</string>
+    <string name="send_mms">"发送信息"</string>
+
+    <string name="sim_no_ready">"Sim卡未准备"</string>
+    <string name="no_fast_dial">"快速拨号未设置"</string>
+    <string name="toast_no_activity_to_handle_intent">"无应用响应"</string>
+    <string name="search_description">"搜索通话记录"</string>
+    <string name="doneButton">"完成"</string>
+    <string name="cancel">"取消"</string>
+    <string name="select_all_sprd">"全选"</string>
+    <string name="sim_no_effect">"SIM卡无效"</string>
+    <string name="delete_success">删除成功</string>
+    <string name="error_icc_lock_dialog_message">你所使用的SIM卡已锁。</string>
+    <string name="insert_sim_card">请插入Sim卡</string>
+    <!-- @} -->
+    <string name="simx">"卡"</string>
+</resources>

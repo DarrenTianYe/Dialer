@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Papagawas"</string>
+<string name="call_log_incoming_title">"Papasulod"</string>
+<string name="recentOutgoing_empty">"Walay bag-o nga papagawas nga mga tawag."</string>
+<string name="recentIncoming_empty">"Walay bag-o nga papasulod nga mga tawag."</string>
+<string name="view_setting">"Tanaw"</string>
+<string name="item_all_calls">"Tanan mga log sa tawag"</string>
+<string name="item_sim_calls">"SIM%d nga mga log sa tawag"</string>
+<string name="clear_all_call_log">"Limpyuhon ang tanan nga mga log sa tawag"</string>
+<string name="clear_selected_call_log">"Limpyuhon ang napili nga log sa tawag"</string>
+<string name="select_all">"Pilia tanan"</string>
+<string name="unselect_all">"Ayaw pilia tanan"</string>
+<string name="sdn_list">"Lista sa SDN"</string>
+<string name="lnd_list">"Lista sa LND"</string>
+<string name="sim_no_ready">"Dili andam ang Sim kard."</string>
+<string name="select_card">"Palihug pagpili sa kard"</string>
+<string name="fast_dial_settings">"Mga gitakda sa paspas nga dayal"</string>
+<string name="call_ip">"IP nga tawag"</string>
+<string name="ip_callNumber_by_sim_ex">"IP nga tawag<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Walay mga numero nga mahimong magamit"</string>
+<string name="send_mms">"Magpadala ug mensahe"</string>
+<string name="no_fast_dial">"Paspas nga tawag sa numero sa telepono kay wala gitakda"</string>
+<string name="menu_addToBlacklist">"Idugang sa Itum nga listahan"</string>
+<string name="call_log_callNumber_by_sim_ex">"Tawag<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Bidyo nga tawag<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Tanawon ang kontak"</string>
+<string name="menu_deleteFromBlacklist">"Panason sa Itum nga listahan"</string>
+<string name="success_addToBlacklist">"Malampuson ang pagdugang"</string>
+<string name="failed_addToBlacklist">"Napakyas ang pagdugang"</string>
+<string name="delete_calls">"Panas"</string>
+<string name="delete_selected_calls">"Sigurado ka nga panason ang napili nga mga tala"</string>
+<string name="delete_all_calls_confirm">"Ganahan ba ka nga panason ang mga tala nga imo tanan?"</string>
+<string name="delete_contact_all_calls">"Sigurado ba ka sa pagpanas sa kontak nga listahan sa mga log sa tawag?"</string>
+<string name="call_log_contacts_not_save">"Wala ilhi"</string>
+<string name="toast_no_activity_to_handle_intent">"Walay aplikasyon ang mutubag!"</string>
+<string name="search_description">"Mangita sa log sa tawag"</string>
+<string name="doneButton">"Human"</string>
+<string name="cancel">"Kansela"</string>
+<string name="select_all_sprd">"Pilia tanan"</string>
+<string name="sim_no_effect">"Wala gipamatuod ang SIM"</string>
+<string name="delete_success">"Malampuson ang pagpanas"</string>
+<string name="error_icc_lock_dialog_message">"Ang napili nga SIM kard kay nasirado na karon."</string>
+<string name="insert_sim_card">"Palihug pagsuksok sa SIM kard."</string>
+<string name="simx">"SIM"</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"આઉટગોઇંગ"</string>
+<string name="call_log_incoming_title">"ઇનકમીંગ"</string>
+<string name="recentOutgoing_empty">"તાજેતરના કોઇ આઉટગોઇંગ કોલ્સ નથી."</string>
+<string name="recentIncoming_empty">"તાજેતરના ઇનકમીંગ કોલ્સ નથી."</string>
+<string name="view_setting">"જુઓ"</string>
+<string name="item_all_calls">"દરેક કોલ લોગ્સ"</string>
+<string name="item_sim_calls">"SIM%d કોલ લોગ્સ"</string>
+<string name="clear_all_call_log">"દરેક કોલ લોગ ક્લિયર કરો "</string>
+<string name="clear_selected_call_log">"સિલેક્ટ કરેલો કોલ લોગ ક્લિયર કરો "</string>
+<string name="select_all">"દરેક સિલેક્ટ કરો"</string>
+<string name="unselect_all">"દરેક સિલેક્ટ કરેલ કાઢી નાખો."</string>
+<string name="sdn_list">"SDN યાદી"</string>
+<string name="lnd_list">"LND યાદી"</string>
+<string name="sim_no_ready">"Sim કાર્ડ તૈયાર નથી."</string>
+<string name="select_card">"કૃપા કરીને કાર્ડ સિલેક્ટ કરો"</string>
+<string name="fast_dial_settings">"ઝડપી ડાયલ સેટ્ટીંગ્સ"</string>
+<string name="call_ip">"IP કોલ"</string>
+<string name="ip_callNumber_by_sim_ex">"IP કોલ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"કોઇ નંબર ઉપલબ્ધ નથી"</string>
+<string name="send_mms">"સંદેશો મોકલો"</string>
+<string name="no_fast_dial">"ઝડપી કોલ ફોન નંબર સેટ થયેલો નથી"</string>
+<string name="menu_addToBlacklist">"બ્લેકલિસ્ટમાં ઉમેરોt"</string>
+<string name="call_log_callNumber_by_sim_ex">"કોલ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"વિડિયો કોલ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"સંપર્ક જુઓ"</string>
+<string name="menu_deleteFromBlacklist">"બ્લેકલિસ્ટમાંથી ડિલીટ કરો "</string>
+<string name="success_addToBlacklist">"સફળતા ઉમેરો"</string>
+<string name="failed_addToBlacklist">"ઉમેરણ નિષ્ફળ"</string>
+<string name="delete_calls">"ડીલીટ"</string>
+<string name="delete_selected_calls">"સિલેક્ટ કરેલા રેકોર્ડ ડિલીટ કરવા માટે તમે ચોક્કસ છો "</string>
+<string name="delete_all_calls_confirm">"શું તમારે તમારા બધા જ રેકોર્ડઝ ડિલીટ કરવા છે?"</string>
+<string name="delete_contact_all_calls">"શું તમે સંપર્કના લિસ્ટેડ કોલ લોગ્સ ડિલીટ કરવા માટે ચોક્કસ છો?"</string>
+<string name="call_log_contacts_not_save">"અજ્ઞાત"</string>
+<string name="toast_no_activity_to_handle_intent">"પ્રતિભાવ આપવા માટે કોઇ એપ્લીકેશન નથી!"</string>
+<string name="search_description">"કોલ લોગ શોધો"</string>
+<string name="doneButton">"પૂર્ણ"</string>
+<string name="cancel">"રદ"</string>
+<string name="select_all_sprd">"દરેક સિલેક્ટ કરો"</string>
+<string name="sim_no_effect">"SIM અમાન્ય કરો"</string>
+<string name="delete_success">"સફળતા ડિલીટ કરો"</string>
+<string name="error_icc_lock_dialog_message">"સિલેક્ટ કરેલું SIM કાર્ડ હવે લોક્ડ છે."</string>
+<string name="insert_sim_card">"કૃપા કરીને SIM કાર્ડ નાખો."</string>
+<string name="simx">"SIM"</string>
+</resources>

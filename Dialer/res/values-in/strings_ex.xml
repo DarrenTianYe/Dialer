@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Keluar"</string>
+<string name="call_log_incoming_title">"Masuk"</string>
+<string name="recentOutgoing_empty">"Tidak ada panggilan keluar yang baru."</string>
+<string name="recentIncoming_empty">"Tidak ada panggilan masuk yang baru."</string>
+<string name="view_setting">"Gambaran"</string>
+<string name="item_all_calls">"Semua log panggilan"</string>
+<string name="item_sim_calls">"SIM%d log panggilan"</string>
+<string name="clear_all_call_log">"Hapus semua log panggilan"</string>
+<string name="clear_selected_call_log">"Hapus log panggilan terpilih"</string>
+<string name="select_all">"Pilih Semua"</string>
+<string name="unselect_all">"Tidak pilih semua"</string>
+<string name="sdn_list">"Daftar SDN"</string>
+<string name="lnd_list">"Daftar SDN"</string>
+<string name="sim_no_ready">"Kartu Sim tidak siap."</string>
+<string name="select_card">"Silahkan memilih kartu"</string>
+<string name="fast_dial_settings">"Pengaturan panggil cepat"</string>
+<string name="call_ip">"Panggilan IP"</string>
+<string name="ip_callNumber_by_sim_ex">"Panggilan IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Tidak ada nomor tersedia"</string>
+<string name="send_mms">"Mengirim surat"</string>
+<string name="no_fast_dial">"Nomor telepon panggil cepat tidak diatur"</string>
+<string name="menu_addToBlacklist">"Tambahkan ke daftar hitam"</string>
+<string name="call_log_callNumber_by_sim_ex">"Panggil<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Panggilan video<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"Panggilan IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Lihat kontak"</string>
+<string name="menu_deleteFromBlacklist">"Hapus dari daftar hitam"</string>
+<string name="success_addToBlacklist">"Menambahkan berhasil"</string>
+<string name="failed_addToBlacklist">"Menambahkan gagal"</string>
+<string name="delete_calls">"Hapus"</string>
+<string name="delete_selected_calls">"Apakah anda yakin menghapus rekaman terpilih"</string>
+<string name="delete_all_calls_confirm">""Apakah anda ingin menghapus semua rekaman anda?"</string>
+<string name="delete_contact_all_calls">""Anda yakin untuk menghapus kontak yang terdaftar dalam log panggilan?"</string>
+<string name="call_log_contacts_not_save">"Tidak diketahui"</string>
+<string name="toast_no_activity_to_handle_intent">""Tidak ada aplikasi untuk menanggapi!" "</string>
+<string name="search_description">"Pencarian panggilan log"</string>
+<string name="doneButton">"Selesai"</string>
+<string name="cancel">"Batal"</string>
+<string name="select_all_sprd">"Pilih Semua"</string>
+<string name="sim_no_effect">"SIM tidak berlaku"</string>
+<string name="delete_success">"Berhasil menghapus"</string>
+<string name="error_icc_lock_dialog_message">"Kartu SIM terpilih sekarang telah terkunci."</string>
+<string name="insert_sim_card">"Silahkan masukkan kartu SIM."</string>
+<string name="simx">"SIM"</string>
+</resources>

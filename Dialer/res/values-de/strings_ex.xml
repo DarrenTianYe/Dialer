@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Ausgehend"</string>
+<string name="call_log_incoming_title">"Eingehend"</string>
+<string name="recentOutgoing_empty">"Derzeitig keine ausgehenden Anrufe."</string>
+<string name="recentIncoming_empty">"Derzeitig keine eingehenden Anrufe."</string>
+<string name="view_setting">"Ansicht"</string>
+<string name="item_all_calls">"Alle Anrufprotokolle"</string>
+<string name="item_sim_calls">"SIM%d-Anrufprotokolle"</string>
+<string name="clear_all_call_log">"Alle Anrufprotokolle löschen"</string>
+<string name="clear_selected_call_log">"Ausgewählte Anrufprotokolle löschen"</string>
+<string name="select_all">"Alle auswählen"</string>
+<string name="unselect_all">"Gesamte Auswahl aufheben"</string>
+<string name="sdn_list">"SDN-Liste"</string>
+<string name="lnd_list">"LND-Liste"</string>
+<string name="sim_no_ready">"SIM-Karte nicht bereit."</string>
+<string name="select_card">"Bitte Karte auswählen"</string>
+<string name="fast_dial_settings">"Schnellwahleinstellungen"</string>
+<string name="call_ip">"IP-Anruf"</string>
+<string name="ip_callNumber_by_sim_ex">"IP Anruf<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Keine Nummern verfügbar"</string>
+<string name="send_mms">"Zweite Nachricht"</string>
+<string name="no_fast_dial">"Schnellwahltelefonnummer nicht eingestellt"</string>
+<string name="menu_addToBlacklist">"Zur Sperrliste hinzufügen"</string>
+<string name="call_log_callNumber_by_sim_ex">"Anruf<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Videoanruf<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Kontakt anschauen"</string>
+<string name="menu_deleteFromBlacklist">"Von Sperrliste löschen"</string>
+<string name="success_addToBlacklist">"Hinzufügen erfolgreich"</string>
+<string name="failed_addToBlacklist">"Hinzufügen fehlgeschlagen"</string>
+<string name="delete_calls">"Löschen"</string>
+<string name="delete_selected_calls">"Sind Sie sicher, dass Sie die ausgewählten Aufnahmen löschen  möchten?"</string>
+<string name="delete_all_calls_confirm">"Wollen Sie alle Ihre eigenen Aufnahmen löschen?"</string>
+<string name="delete_contact_all_calls">"Sind Sie sicher, dass Sie die Anrufprotokolle des Kontakts löschen wollen?"</string>
+<string name="call_log_contacts_not_save">"Unbekannt"</string>
+<string name="toast_no_activity_to_handle_intent">"Keine Anwendung zum Anwenden!"</string>
+<string name="search_description">"Anrufprotokoll suchen"</string>
+<string name="doneButton">"Fertig"</string>
+<string name="cancel">"Abbrechen"</string>
+<string name="select_all_sprd">"Alle auswählen"</string>
+<string name="sim_no_effect">"SIM ungültig machen"</string>
+<string name="delete_success">"Löschen erfolgreich"</string>
+<string name="error_icc_lock_dialog_message">"Die ausgewählte SIM-Karte ist jetzt gesperrt."</string>
+<string name="insert_sim_card">"Bitte legen Sie die SIM-Karte ein."</string>
+<string name="simx">"SIM"</string>
+</resources>

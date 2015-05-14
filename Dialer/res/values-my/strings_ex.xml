@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"အထြက္ဖုန္း"</string>
+<string name="call_log_incoming_title">"အ၀င္"</string>
+<string name="recentOutgoing_empty">"မျကာမီကအထြက္ဖုန္းမ်ားမရွိ."</string>
+<string name="recentIncoming_empty">"မျကာမီကအ၀င္ဖုန္းမ်ားမရွိ."</string>
+<string name="view_setting">"ျမင္ကြင္း"</string>
+<string name="item_all_calls">"ဖုန္းေလာ့မ်ားအားလံုး"</string>
+<string name="item_sim_calls">"SIM%d ဖုန္းေလာ့မ်ား"</string>
+<string name="clear_all_call_log">"ဖုန္းေလာ့အားလံုးပယ္ဖ်က္"</string>
+<string name="clear_selected_call_log">"ေရြးခ်ယ္ထားသည့္ဖုန္းေလာ့ပယ္ဖ်က္"</string>
+<string name="select_all">"အားလံုးကို ေရြးခ်ယ္ပါ"</string>
+<string name="unselect_all">"အားလံုးကို ပယ္ဖ်က္ပါ"</string>
+<string name="sdn_list">"SDN စာရင္း"</string>
+<string name="lnd_list">"LND စာရင္း"</string>
+<string name="sim_no_ready">"Sim ကဒ္အဆင္သင့္မရွိ."</string>
+<string name="select_card">"ေက်းဇူးျပဳ၍ ကဒ္ ေရြးခ်ယ္"</string>
+<string name="fast_dial_settings">"အျမန္ဖုန္း"</string>
+<string name="call_ip">"IP ဖုန္း"</string>
+<string name="ip_callNumber_by_sim_ex">"IP ဖုန္း <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"နံပါတ္မ်ားမေထာက္ပံ့"</string>
+<string name="send_mms">"မက္ေဆ့့ခ်္ပို ့"</string>
+<string name="no_fast_dial">"အျမန္ဖုန္းေခါ ္နံပါတ္ဆက္တင္မရွိ"</string>
+<string name="menu_addToBlacklist">"အမည္မည္းစာရင္းထည့္."</string>
+<string name="call_log_callNumber_by_sim_ex">"ဖုန္း<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ဗီဒီယိုဖုန္း <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP ဖုန္း <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"ဆက္သြယ္သူ ျမင္ကြင္း"</string>
+<string name="menu_deleteFromBlacklist">"အမည္မည္းစာရင္းမွပယ္ဖ်က္"</string>
+<string name="success_addToBlacklist">"ထည့္ျခင္းေအာင္ျမင္"</string>
+<string name="failed_addToBlacklist">"ထည့္ရန္ က်ရွံဳး"</string>
+<string name="delete_calls">"ပယ္ဖ်က္သည္"</string>
+<string name="delete_selected_calls">"ေရြးခ်ယ္ထားသည့္မွတ္တမ္းမ်ား ပယ္ဖ်က္မွာ ေသခ်ာလား"</string>
+<string name="delete_all_calls_confirm">"သင္၏မွတ္တမ္းမ်ားကို ပယ္ဖ်က္လိုပါသလား?"</string>
+<string name="delete_contact_all_calls">"ဆက္သြယ္သူဖုန္းစာရင္းေလာ့မ်ားကို ပယ္ဖ်က္မွာ ေသခ်ာလား?"</string>
+<string name="call_log_contacts_not_save">"မသိပါ"</string>
+<string name="toast_no_activity_to_handle_intent">"တုန့္ျပန္ရန္ေအပီပီမရွိ!"</string>
+<string name="search_description">"ဖုန္းေလာ့ရွာေဖြ"</string>
+<string name="doneButton">"ၿပီးၿပီ"</string>
+<string name="cancel">"ပယ္ဖ်က္သည္"</string>
+<string name="select_all_sprd">"အားလံုးကို ေရြးခ်ယ္ပါ"</string>
+<string name="sim_no_effect">"SIM သက္္တမ္းေက်ာ္"</string>
+<string name="delete_success">"ပယ္ဖ်က္ေအာင္ျမင္"</string>
+<string name="error_icc_lock_dialog_message">"ေရြးခ်ယ္ထားသည့္ SIM ကဒ္ ေလာ့ခ္က်ေန. "</string>
+<string name="insert_sim_card">"ေက်းဇူးျပဳ၍ SIM ကဒ္ထည့္."</string>
+<string name="simx">"SIM"</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="applicationLabel">"டயலர்"</string>
+<string name="launcherDialer">"“தொலைபேசி”"</string>
+<string name="dialerIconLabel">"“தொலைபேசி”"</string>
+<string name="recentCallsIconLabel">"அழைப்பு குறிப்பேடு"</string>
+<string name="menu_sendTextMessage">"உரை செய்தி அனுப்பு"</string>
+<string name="recentCalls_callNumber">"<xliff:g id="name">%s</xliff:g>ஐ அழைக்கவும் "</string>
+<string name="recentCalls_editNumberBeforeCall">"அழைப்பதற்கு முன் எண்னை திருத்து"</string>
+<string name="recentCalls_addToContact">"தொடர்புடன் சேர்க்கவும்"</string>
+<string name="recentCalls_removeFromRecentList">"அழைப்பு பதிவிலிருந்து அகற்றவும்"</string>
+<string name="recentCalls_deleteAll">"அழைப்பு பதிவை துடை"</string>
+<string name="recentCalls_trashVoicemail">"குரலஞ்சலை நீக்கவும்"</string>
+<string name="recentCalls_shareVoicemail">"குரலஞ்சலை பகிர்க"</string>
+<string name="recentCalls_empty">"அழைப்பு குறிப்பேடு காலியாக உள்ளது."</string>
+<string name="clearCallLogConfirmation_title">"அழைப்பு பதிவை துடைக்கவா?"</string>
+<string name="clearCallLogConfirmation">"உங்களது தேர்ந்தெடுக்கப்பட்ட அழைப்பு பதிவுகள் நீக்கப்படும்."</string>
+<string name="clearCallLogProgress_title">"அழைப்பு பதிவை அகற்றுகிறது\u2026"</string>
+<plurals name="notification_voicemail_title">
+<item quantity="one">"குரல் அஞ்சல்"</item>
+</plurals>
+<string name="notification_action_voicemail_play">"இயக்கு"</string>
+<string name="notification_voicemail_callers_list">"<xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g> "</string>
+<string name="notification_new_voicemail_ticker">"<xliff:g id="caller">%1$s</xliff:g> யிடமிருந்து புதிய குரலஞ்சல் "</string>
+<string name="voicemail_playback_error">"குரலஞ்சலை இயக்க முடியவில்லை."</string>
+<string name="voicemail_buffering">"நினைவேறுகிறது\u2026"</string>
+<string name="voicemail_fetching_content">"குரலஞ்சலைப் பெறுகிறது\u2026"</string>
+<string name="voicemail_fetching_timout">"குரலஞ்சலைப் பெற முடியவில்லை."</string>
+<string name="call_log_voicemail_header">"குரலஞ்சல் உடனான அழைப்புகள் மட்டும்"</string>
+<string name="call_log_incoming_header">"உள்வரும் அழைப்புகள் மட்டும்"</string>
+<string name="call_log_outgoing_header">"வெளிச்செல்லும் அழைப்புகள் மட்டும்"</string>
+<string name="call_log_missed_header">"தவறிய அழைப்புகள் மட்டும்"</string>
+<string name="voicemail_status_voicemail_not_available">"குரலஞ்சல் சேவையகத்துடன் இணைக்க முடியவில்லை."</string>
+<string name="voicemail_status_messages_waiting">"குரலஞ்சல் சேவையகத்துடன் இணைக்க முடியவில்லை. புதிய குரலஞ்சல்கள் காத்திருக்கின்றன. "</string>
+<string name="voicemail_status_configure_voicemail">"உங்களது குரலஞ்சலை அமைக்கவும்."</string>
+<string name="voicemail_status_audio_not_available">"ஆடியோ இல்லை."</string>
+<string name="voicemail_status_action_configure">"அமைப்பு"</string>
+<string name="voicemail_status_action_call_server">"குரல் அஞ்சலை அழை"</string>
+<string name="voicemail_speed_slowest">"மிக மெதுவான வேகம்"</string>
+<string name="voicemail_speed_slower">"மெதுவான வேகம்"</string>
+<string name="voicemail_speed_normal">"சாதாரண வேகம்"</string>
+<string name="voicemail_speed_faster">"துரித வேகம்"</string>
+<string name="voicemail_speed_fastest">"மிக துரித வேகம்"</string>
+<string name="call_log_item_count_and_date">"(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g> "</string>
+<string name="sms_disambig_title">"எண்ணைத் தேர்வுசெய்க"</string>
+<string name="call_disambig_title">"எண்ணைத் தேர்வுசெய்க"</string>
+<string name="make_primary">"இந்த வாய்ப்பை நினைவில் கொள்"</string>
+<string name="description_image_button_one">"ஒன்று"</string>
+<string name="description_image_button_two">"இரண்டு"</string>
+<string name="description_image_button_three">"மூன்று"</string>
+<string name="description_image_button_four">"நான்கு"</string>
+<string name="description_image_button_five">"ஐந்து"</string>
+<string name="description_image_button_six">"ஆறு"</string>
+<string name="description_image_button_seven">"ஏழு"</string>
+<string name="description_image_button_eight">"எட்டு"</string>
+<string name="description_image_button_nine">"ஒன்பது"</string>
+<string name="description_image_button_star">"நட்சத்திரம்"</string>
+<string name="description_image_button_zero">"பூஜ்ஜியம்"</string>
+<string name="description_image_button_pound">"பவுண்டு"</string>
+<string name="description_voicemail_button">"குரல் அஞ்சல்"</string>
+<string name="description_search_button">"தேடு"</string>
+<string name="description_dial_button">"டயல்"</string>
+<string name="description_delete_button">"பேக்ஸ்பேஸ்"</string>
+<string name="description_digits_edittext">"டயல் செய்வதற்கான எண்"</string>
+<string name="action_menu_call_history_description">"அழைப்பு வரலாறு"</string>
+<string name="action_menu_overflow_description">"மேலும் அதிக விருப்பத்தெரிவுகள்"</string>
+<string name="action_menu_dialpad_button">"டயல் பேட்"</string>
+<string name="menu_copy">"நகலெடு"</string>
+<string name="menu_show_outgoing_only">"வெளிச்செல்வதை மட்டும் காண்பிக்கவும்"</string>
+<string name="menu_show_incoming_only">"உள்வருவதை மட்டும் காண்பிக்கவும்"</string>
+<string name="menu_show_missed_only">"தவறியதை மட்டும் காண்பிக்கவும்"</string>
+<string name="menu_show_voicemails_only">"குரலஞ்சல்களை மட்டும் காண்பிக்கவும்"</string>
+<string name="menu_show_all_calls">"அனைத்து அழைப்புகளையும் காட்டவும்"</string>
+<string name="add_2sec_pause">"2 விநாடிகள் இடைநிறுத்தம் சேர்"</string>
+<string name="add_wait">"சேர்க்க காத்திருக்கவும்"</string>
+<string name="call_settings">"அழைப்பு அமைப்புக்கள்"</string>
+<string name="menu_newContact">"புதிய தொடர்பு"</string>
+<string name="menu_allContacts">"அனைத்து தொடர்புகள்"</string>
+<string name="callDetailTitle">"அழைப்பு விவரங்கள்"</string>
+<string name="toast_call_detail_error">"கோரப்பட்ட அழைப்பின் விவரங்களை வாசிக்க முடியவில்லை."</string>
+<string name="dialer_useDtmfDialpad">"தொடு டோன் கீபேடை பயன்படுத்து"</string>
+<string name="dialer_returnToInCallScreen">"செயலிலுள்ள அழைப்பிற்குத் திரும்புக"</string>
+<string name="dialer_addAnotherCall">"அழைப்பைச் சேர்"</string>
+<string name="type_incoming">"உள்வரும் அழைப்பு"</string>
+<string name="type_outgoing">"வெளிச்செல்லும் அழைப்பு"</string>
+<string name="type_missed">"தவறிய அழைப்பு"</string>
+<string name="type_voicemail">"குரல் அஞ்சல்"</string>
+<string name="actionIncomingCall">"உள்வரும் அழைப்புகள்"</string>
+<string name="description_call_log_play_button">"குரலஞ்சல் இயக்குக"</string>
+<string name="description_call_log_incoming_call">"உள்வரும் அழைப்பு"</string>
+<string name="description_call_log_outgoing_call">"வெளிச்செல்லும் அழைப்பு"</string>
+<string name="description_call_log_missed_call">"தவறிய அழைப்பு"</string>
+<string name="description_call_log_voicemail">"குரல் அஞ்சல்"</string>
+<string name="description_add_contact">"தொடர்பு சேர்க்கவும்"</string>
+<string name="description_view_contact">"தொடர்பு <xliff:g id="name">%1$s</xliff:g> ஐ காணவும்"</string>
+<string name="description_call">"<xliff:g id="name">%1$s</xliff:g> ஐ அழைக்கவும்"</string>
+<string name="description_send_text_message">"<xliff:g id="name">%1$s</xliff:g>க்கு உரை செய்தியை அனுப்பு"</string>
+<string name="description_call_log_unheard_voicemail">"கேட்காத குரலஞ்சல்"</string>
+<string name="description_start_voice_search">"குரல் தேடல் துவக்கவும்"</string>
+<string name="call_log_empty_gecode">"\u0020"</string>
+<string name="menu_callNumber">"<xliff:g id="number">%s</xliff:g>ஐ அழைக்கவும்"</string>
+<string name="unknown">"தெரியாதது"</string>
+<string name="voicemail">"குரல் அஞ்சல்"</string>
+<string name="private_num">"தனிப்பட்ட எண்"</string>
+<string name="payphone">"கட்டண ஃபோன்"</string>
+<string name="dialerKeyboardHintText">"டயல் செய்ய விசைப்பலகையை பயன்படுத்து"</string>
+<string name="dialerDialpadHintText">"அழைப்பை சேர்க்க டயல் செய்யவும்"</string>
+<string name="callDetailsDurationFormat">"<xliff:g id="minutes" example="42">%s</xliff:g> நிமிடங்கள் <xliff:g id="seconds" example="28">%s</xliff:g> விநாடிகள்"</string>
+<string name="dialog_phone_call_prohibited_message">"அழைப்பு அனுப்பப்படவில்லை"</string>
+<string name="dialog_voicemail_not_ready_message">"குரலஞ்சல் எண் இல்லை:குரலஞ்சலை அமைக்க, மெனு &amp;gt; அழைப்பு அமைவுகள் என்பதற்குச் செல்லவும்."</string>
+<string name="dialog_voicemail_airplane_mode_message">"குரலஞ்சலை அழைக்க, முதலில் வானூர்திப் பயன்முறையை ஆஃப் செய்யவும்."</string>
+<string name="contact_list_loading">"நினைவேற்றுகிறது\u2026"</string>
+<string name="imei">"IMEI"</string>
+<string name="simContacts_emptyLoading">"SIM அட்டையிலிருந்து ஏற்றுகிறது\u2026"</string>
+<string name="simContacts_title">"SIM அட்டைத் தொடர்புகள்"</string>
+<string name="add_contact_not_available">"இந்த அம்சத்தைப் பயன்படுத்த மக்கள் பயன்பாட்டை மீண்டும் செயல்படுத்துக."</string>
+<string name="dialer_hint_find_contact">"ஒரு பெயர் அல்லது ஃபோன் எண்ணை தட்டச்சு செய்க"</string>
+<string name="call_log_all_title">"எல்லா"</string>
+<string name="call_log_missed_title">"தவறியவை"</string>
+<string name="recentMissed_empty">"சமீபத்தில் தவறிய அழைப்புகள் இல்லை."</string>
+<string name="recentVoicemails_empty">"சமீபத்திய குரலஞ்சல்கள் இல்லை."</string>
+<string name="show_all_contacts">"அனைத்து அழைப்புக்களையும் காட்டவும்"</string>
+<string name="show_favorites_only">"பிடித்தவைகளை மட்டும் காண்பிக்கவும்"</string>
+<string name="call_log_activity_title">"வரலாறு"</string>
+<string name="show_all_contacts_title">"அனைத்து தொடர்புகள்"</string>
+<string name="show_all_contacts_button_text">"அனைத்து தொடர்புகள்"</string>
+<string name="favorite_hidden">"பிடித்தவைகளிலிருந்து அகற்றப்பட்டது"</string>
+<string name="favorite_hidden_undo">"தளர்த்து"</string>
+<string name="search_shortcut_call_number">"<xliff:g id="number">%s</xliff:g>ஐ அழைக்கவும் "</string>
+<string name="search_shortcut_add_to_contacts">"தொடர்புடன் சேர்க்கவும்"</string>
+<string name="num_missed_calls">"<xliff:g id="number">%s</xliff:g> புதிய தவறிய அழைப்புகள்"</string>
+<string name="no_favorites">"நீங்கள் அடிக்கடி அழைக்கும் பிடித்தவைகள் &amp; தொடர்புகள் \nஇங்கு காட்டப்படும்.\nஎனவே, அழைக்கத் துவங்குங்கள்."</string>
+<string name="contact_tooltip">"அனைத்து எண்களையும் காண படத்தை டேப் செய்யவும் அல்லது மீண்டும் ஆர்டர் செய்ய அழுத்திப் பிடித்திருக்கவும்"</string>
+<string name="description_dismiss">"நீக்குக"</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Uitgaande"</string>
+<string name="call_log_incoming_title">"Inkomend"</string>
+<string name="recentOutgoing_empty">"Geen recente uitgaande oproepen."</string>
+<string name="recentIncoming_empty">"Geen recente inkomende oproepen."</string>
+<string name="view_setting">"Beeld"</string>
+<string name="item_all_calls">"Alle oproep logboeken"</string>
+<string name="item_sim_calls">"SIM%d oproep logboeken"</string>
+<string name="clear_all_call_log">"Verwijder alle oproep logboeken"</string>
+<string name="clear_selected_call_log">"Verwijder gekozen oproep logboeken"</string>
+<string name="select_all">"Kies alles"</string>
+<string name="unselect_all">"Schrap alles"</string>
+<string name="sdn_list">"SDN Lijst"</string>
+<string name="lnd_list">"LND Lijst"</string>
+<string name="sim_no_ready">"Sim kaart niet gereed."</string>
+<string name="select_card">"Kies a.u.b. kaart"</string>
+<string name="fast_dial_settings">"Vorige bel instellingen"</string>
+<string name="call_ip">"IP oproep"</string>
+<string name="ip_callNumber_by_sim_ex">"IP oproep<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Geen nummers beschikbaar"</string>
+<string name="send_mms">"Zend boodschap"</string>
+<string name="no_fast_dial">"Vorige oproep telefoonnummer niet ingesteld"</string>
+<string name="menu_addToBlacklist">"Toevoegen aan zwarte lijst"</string>
+<string name="call_log_callNumber_by_sim_ex">"Bel<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Video oproep<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP oproep<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Bekijk contact"</string>
+<string name="menu_deleteFromBlacklist">"Verwijder van zwarte lijst"</string>
+<string name="success_addToBlacklist">"Toevoegen succesvol"</string>
+<string name="failed_addToBlacklist">"Toevoegen gefaald"</string>
+<string name="delete_calls">"Verwijder"</string>
+<string name="delete_selected_calls">"Bent u zeker van verwijderen van gekozen contacten"</string>
+<string name="delete_all_calls_confirm">"Wilt u de dossiers van u allemaal verwijderen?"</string>
+<string name="delete_contact_all_calls">"Weet u zeker dat u de oproep logboeken van contacten wilt verwijderen?"</string>
+<string name="call_log_contacts_not_save">"Onbekend"</string>
+<string name="toast_no_activity_to_handle_intent">"Geen applicatie om te antwoorden!"</string>
+<string name="search_description">"zoek bel logboek"</string>
+<string name="doneButton">"Gereed"</string>
+<string name="cancel">"Beëindig"</string>
+<string name="select_all_sprd">"Kies alles"</string>
+<string name="sim_no_effect">"SIM ongeldig"</string>
+<string name="delete_success">"Verwijderen succesvol"</string>
+<string name="error_icc_lock_dialog_message">"De gekozen SIM kaart is nu geblokkeerd."</string>
+<string name="insert_sim_card">"Plaats alstublieft de SIM kaart."</string>
+<string name="simx">"SIM"</string>
+</resources>

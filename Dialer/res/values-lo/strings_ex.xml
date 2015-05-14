@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"ສົ່ງ​ອອກ​ແລ້ວ"</string>
+<string name="call_log_incoming_title">"ຮັບ​ເອົາ​ແລ້ວ"</string>
+<string name="recentOutgoing_empty">"ຊ່ວງ​ນີ້ບໍ່​ມີສາຍໂທອອກ"</string>
+<string name="recentIncoming_empty">"ຊ່ວງ​ນີ້ບໍ່​ມີ​ການ​​ສາຍ​ໂທ​ເຂົ້າ"</string>
+<string name="view_setting">"ກວດ​ເບີ່ງ"</string>
+<string name="item_all_calls">"ບັນ​ທຶກ​ການ​ໂທ​ທັ້ງ​ໝົດ"</string>
+<string name="item_sim_calls">"ບັນ​ທຶກ​ການ​ໂທSIM%d"</string>
+<string name="clear_all_call_log">"ລຶບ​ບັນ​ທຶກ​ການ​ໂທທັ້ງ​ໝົດ"</string>
+<string name="clear_selected_call_log">"ລຶບ​ບັນ​ທຶກ​ການ​ໂທ​ທີ່​ໄດ້​ເລືອກ"</string>
+<string name="select_all">"​ເລືອກທັງ​ຫມດ"</string>
+<string name="unselect_all">"ຍົກ​ເລີກ​ການ​ເລືອກ​ທັ້ງ​ໝົດ"</string>
+<string name="sdn_list">"ລາຍ​ຊື່ SDN"</string>
+<string name="lnd_list">"ລາຍ​ຊື່ LND"</string>
+<string name="sim_no_ready">"Simຍັງ​ບໍ່​ທັນ​ພ້ອມ."</string>
+<string name="select_card">"ກະ​ລຸ​ນາ​ເລືອກ​ບັດ"</string>
+<string name="fast_dial_settings">"ຕັ້ງ​ຄ່າ​ການ​ໄທວ່ອງ​ໄວ"</string>
+<string name="call_ip">"ໂທIP"</string>
+<string name="ip_callNumber_by_sim_ex">"ໂທIP <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"ບໍ່​ມີ​ໝາຍ​ເລກ​ທີ່​ນຳ​ໃຊ້​ໄດ້"</string>
+<string name="send_mms">"ສົ່ງ​ຂໍ້​ຄວາມ"</string>
+<string name="no_fast_dial">"ປຸ່ມ​​ໝາຍ​ເລກການ​ໂທ​ທາງ​ລັດ​​ຍັງ​ບໍ່​ໄດ້​ຕັ້ງ​ຄ່າ"</string>
+<string name="menu_addToBlacklist">"ເພີ່ມ​ໄປ​ຍັງ​ບັນ​ຊີ​ດຳ"</string>
+<string name="call_log_callNumber_by_sim_ex">"ໂທ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ໂທວິ​ດີ​ໂອ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"​ກວດ​ເບີ່ງ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="menu_deleteFromBlacklist">"ລຶບ​ຈາກ​​ລາຍ​ຊື່ບັນ​ຊີ​ດຳ"</string>
+<string name="success_addToBlacklist">"ສຳ​ເລັດ​ການ​ເພີ່ມ​ໄປ​ທີ່​ລາຍ​ຊື່​ບັນ​ຊີ​ດຳ"</string>
+<string name="failed_addToBlacklist">"ການ​ເພີ່ມ​ລົ້ມ​ເຫລວ"</string>
+<string name="delete_calls">"​ລົບ"</string>
+<string name="delete_selected_calls">"ທ່ານໃຫ້ແນ່ໃຈວ່າລຶບການບັນທຶກ​ທີ່ເລືອກ"</string>
+<string name="delete_all_calls_confirm">"ທ່ານຕ້ອງການລຶບການບັນທຶກຂອງທ່ານທັງຫມົດບໍ?"</string>
+<string name="delete_contact_all_calls">"ທ່ານແນ່ໃຈທີ່ຈະລຶບຂໍ້ມູນບັນທຶກການໂທຜູ້​ຕິດ​ຕໍ່​ທັງ​ໝົດ?"</string>
+<string name="call_log_contacts_not_save">"​ບໍ່​ຮູ້"</string>
+<string name="toast_no_activity_to_handle_intent">"ບໍ່​ມີ​ໂປ​ຣ​ແກ​ຣມ​ທີ່​ຕອບ​ສະ​ໜອງ!"</string>
+<string name="search_description">"ຄົ້ນ​ຫາ​ບັນ​ທຶກ​ການ​ໂທ"</string>
+<string name="doneButton">"ດຳເນີນການສຳເລັດ"</string>
+<string name="cancel">"ຍົກ​ເລິກ"</string>
+<string name="select_all_sprd">"​ເລືອກທັງ​ຫມດ"</string>
+<string name="sim_no_effect">"SIMບໍ່​ຖືກ​ຕ້ອງ"</string>
+<string name="delete_success">"ການ​ລຶບສຳ​ເລັດ"</string>
+<string name="error_icc_lock_dialog_message">"" SIMທີ່​ທ່ານ​ໄດ້​ຖືກ​ລ໊ອກ​ແລ້ວ" "</string>
+<string name="insert_sim_card">"" ກະ​ລຸ​ນາ​ໃສ່SIM"  "</string>
+<string name="simx">"SIM"</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Giden"</string>
+<string name="call_log_incoming_title">"Gelen"</string>
+<string name="recentOutgoing_empty">"Son giden aramalar yok."</string>
+<string name="recentIncoming_empty">"Son gelen aramalar yok."</string>
+<string name="view_setting">"Görüntüleme"</string>
+<string name="item_all_calls">"Tüm çağrı kayıtları"</string>
+<string name="item_sim_calls">"SIM%d çağrı kayıtları"</string>
+<string name="clear_all_call_log">"Tüm çağrı kayıtlarını sil"</string>
+<string name="clear_selected_call_log">"Seçilen çağrı kaydını sil"</string>
+<string name="select_all">"Tümünü Seç"</string>
+<string name="unselect_all">"Tüm Seçimi kaldır"</string>
+<string name="sdn_list">"SDN listesi"</string>
+<string name="lnd_list">"LND listesi"</string>
+<string name="sim_no_ready">"SIM kart hazır değil."</string>
+<string name="select_card">"Lütfen kartı seçin"</string>
+<string name="fast_dial_settings">"hızlı arama ayarları"</string>
+<string name="call_ip">"IP Araması"</string>
+<string name="ip_callNumber_by_sim_ex">"IP Arama<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Kullanılabilir numara yok"</string>
+<string name="send_mms">"Mesaj gönder"</string>
+<string name="no_fast_dial">"Hızlı arama numarası ayarlanmadı"</string>
+<string name="menu_addToBlacklist">"Kara listeye ekle"</string>
+<string name="call_log_callNumber_by_sim_ex">"Call<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Görüntülü Arama<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP Arama<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">""Kişiyi görüntüle" "</string>
+<string name="menu_deleteFromBlacklist">"Kara listeden sil"</string>
+<string name="success_addToBlacklist">"Ekleme başarılı"</string>
+<string name="failed_addToBlacklist">"Ekleme başarısız"</string>
+<string name="delete_calls">"Sil"</string>
+<string name="delete_selected_calls">"Seçilen kayıtlar silinecek,emin misiniz"</string>
+<string name="delete_all_calls_confirm">"Tüm kayıtlarınızın silinmesini istiyor musunuz?"</string>
+<string name="delete_contact_all_calls">"Kişilerin listelenen çağrı kayıtlarını silmek istediğinizden emin misiniz?"</string>
+<string name="call_log_contacts_not_save">"Bilinmiyor"</string>
+<string name="toast_no_activity_to_handle_intent">"Cevap verecek uygulama yok!"</string>
+<string name="search_description">"arama kaydı ara"</string>
+<string name="doneButton">"Bitti"</string>
+<string name="cancel">"İptal"</string>
+<string name="select_all_sprd">"Tümünü Seç"</string>
+<string name="sim_no_effect">"SIM geçersiz"</string>
+<string name="delete_success">"Silme başarılı"</string>
+<string name="error_icc_lock_dialog_message">"Seçilen SIM kart şimdi engelledi."</string>
+<string name="insert_sim_card">"Lütfen SIM kart takın."</string>
+<string name="simx">"SIM"</string>
+</resources>

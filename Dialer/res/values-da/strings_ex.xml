@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Udgående"</string>
+<string name="call_log_incoming_title">"Indgående"</string>
+<string name="recentOutgoing_empty">"Ingen nye udgående opkald"</string>
+<string name="recentIncoming_empty">"Ingen nye indgående opkald"</string>
+<string name="view_setting">"Vis"</string>
+<string name="item_all_calls">"Alle opkaldslister"</string>
+<string name="item_sim_calls">"SIM%d opkaldslister"</string>
+<string name="clear_all_call_log">"Slet alle opkaldslister"</string>
+<string name="clear_selected_call_log">"Slet udvalgte opkaldslister"</string>
+<string name="select_all">"Vælg alle"</string>
+<string name="unselect_all">"Fravælg alle"</string>
+<string name="sdn_list">"SDN liste"</string>
+<string name="lnd_list">"LND liste"</string>
+<string name="sim_no_ready">"Sim kort ikke klar"</string>
+<string name="select_card">"Venligst vælg kort"</string>
+<string name="fast_dial_settings">"hurtigkaldsindstilling"</string>
+<string name="call_ip">"IP-opkald"</string>
+<string name="ip_callNumber_by_sim_ex">"IP opkald<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Ingen numre tilgængelige"</string>
+<string name="send_mms">"Send besked"</string>
+<string name="no_fast_dial">"Hurtig opkald telefonnummer ikke indstillet"</string>
+<string name="menu_addToBlacklist">"Tilføj til sortliste"</string>
+<string name="call_log_callNumber_by_sim_ex">"Opkald<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Video opkald<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Vis kontakt"</string>
+<string name="menu_deleteFromBlacklist">"Slet fra sortliste"</string>
+<string name="success_addToBlacklist">"Tilføj success"</string>
+<string name="failed_addToBlacklist">"Tilføjlse mislykkedes"</string>
+<string name="delete_calls">"Slet"</string>
+<string name="delete_selected_calls">"Er du sikker på at du vil slette de markerede poster?"</string>
+<string name="delete_all_calls_confirm">"Ønsker du at slette alle dine optegnelser?"</string>
+<string name="delete_contact_all_calls">"Er du sikker på at du vil slette kontakter opkaldslister"</string>
+<string name="call_log_contacts_not_save">"Ukendt"</string>
+<string name="toast_no_activity_to_handle_intent">"Ingen telefonsvarer"</string>
+<string name="search_description">"Søg opkaldslog"</string>
+<string name="doneButton">"Udført"</string>
+<string name="cancel">"Annuller"</string>
+<string name="select_all_sprd">"Vælg alle"</string>
+<string name="sim_no_effect">"SIM ugyldigt"</string>
+<string name="delete_success">"Sletning succesfuld!"</string>
+<string name="error_icc_lock_dialog_message">"Det valgte SIM kort er nu låst"</string>
+<string name="insert_sim_card">"Indsæt venligst SIM kort."</string>
+<string name="simx">"SIM"</string>
+</resources>

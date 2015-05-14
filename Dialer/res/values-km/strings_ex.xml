@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"ហៅទៅ"</string>
+<string name="call_log_incoming_title">"ដែលហៅចូល"</string>
+<string name="recentOutgoing_empty">"គ្មានការហៅចេញទេក្នុងពេលថ្មីៗនេះ"</string>
+<string name="recentIncoming_empty">"គ្មានការហៅចូលទេក្នុងពេលថ្មីៗនេះ"</string>
+<string name="view_setting">"មើល"</string>
+<string name="item_all_calls">"កំណត់ត្រាការហៅទាំងអស់"</string>
+<string name="item_sim_calls">"កំណត់ត្រាការហៅរបស់ស៊ីម%d"</string>
+<string name="clear_all_call_log">"លុបចោលរាល់កំណត់ត្រាការហៅទាំងអស់"</string>
+<string name="clear_selected_call_log">"លុបចោលកំណត់ត្រាការហៅដែលបានជ្រើសរើស"</string>
+<string name="select_all">"ជ្រើសរើសទាំងអស់"</string>
+<string name="unselect_all">"ដោះជម្រើសទាំងអស់"</string>
+<string name="sdn_list">"បញ្ជីSDN"</string>
+<string name="lnd_list">"បញ្ជីLND"</string>
+<string name="sim_no_ready">"កាតSimមិនទាន់ត្រៀម"</string>
+<string name="select_card">"សូមជ្រើសរើសកាត"</string>
+<string name="fast_dial_settings">"កំណត់ការហៅភ្លាមៗ"</string>
+<string name="call_ip">" ការហៅទូរស័ព្ទIP "</string>
+<string name="ip_callNumber_by_sim_ex">"ហៅតាមIP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"គ្មានលេខមានប្រសិទ្ធិភាព"</string>
+<string name="send_mms">"ផ្ញើសារ"</string>
+<string name="no_fast_dial">"មិនបានកំណត់លេខទូរស័ព្ទសម្រាប់ការហៅរហ័ស"</string>
+<string name="menu_addToBlacklist">"ដាក់បញ្ចូលទៅក្នុងបញ្ជីខ្មៅ"</string>
+<string name="call_log_callNumber_by_sim_ex">"ការហៅ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ហៅទូរស័ព្ទវីដេអូ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"ពិនិត្យមើលអ្នកទំនាក់ទំនង"</string>
+<string name="menu_deleteFromBlacklist">"លុបចេញពីបញ្ជីខ្មៅ"</string>
+<string name="success_addToBlacklist">"ដាក់បញ្ចូលបានជោគជ័យ"</string>
+<string name="failed_addToBlacklist">"ដាក់បញ្ចូលបរាជ័យ"</string>
+<string name="delete_calls">"លុបចោល"</string>
+<string name="delete_selected_calls">"តើលោកអ្នកច្បាស់ថាលុបកំណត់ត្រាការហៅទូរស័ព្ទដែលបានជ្រើសរើសចោលឬ?"</string>
+<string name="delete_all_calls_confirm">"តើលោកអ្នកចង់លុបកំណត់ត្រាការហៅដែលបានជ្រើសរើសរបស់លោកអ្នកទាំងអស់ចោលឬ?"</string>
+<string name="delete_contact_all_calls">"តើលោកអ្នកច្បាស់ថាត្រូវលុបរាល់កំណត់ត្រាការហៅរបស់ទំនាក់ទំនងនេះចោលឬ?"</string>
+<string name="call_log_contacts_not_save">"មិនស្គាល់"</string>
+<string name="toast_no_activity_to_handle_intent">"គ្មានកម្មវិធីណាឆ្លើយតបនឹងប្រតិបត្តិការនេះទេ"</string>
+<string name="search_description">"ស្វែងរកកំណត់ត្រាការហៅ"</string>
+<string name="doneButton">"រួចរាល់"</string>
+<string name="cancel">"បោះបង់"</string>
+<string name="select_all_sprd">"ជ្រើសរើសទាំងអស់"</string>
+<string name="sim_no_effect">"ស៊ីមកាតគ្មានសុពលភាព"</string>
+<string name="delete_success">"លុបចោលបានសម្រេច"</string>
+<string name="error_icc_lock_dialog_message">"ស៊ីមកាតដែលបានជ្រើសរើសឥឡូវនេះត្រូវបានចា់សោហើយ។"</string>
+<string name="insert_sim_card">"សូមស៊កបញ្ចូលស៊ីមកាត"</string>
+<string name="simx">"SIM"</string>
+</resources>

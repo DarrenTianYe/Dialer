@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"ขาออก "</string>
+<string name="call_log_incoming_title">"ขาเข้า"</string>
+<string name="recentOutgoing_empty">"ไม่มีการโทรออกล่าสุด."</string>
+<string name="recentIncoming_empty">"ไม่มีการโทรเข้าล่าสุด"</string>
+<string name="view_setting">"มุมมอง"</string>
+<string name="item_all_calls">"บันทึกการโทรทั้งหมด "</string>
+<string name="item_sim_calls">"SIM%d บันทึกการโทร"</string>
+<string name="clear_all_call_log">"ลบบันทึกการโทร"</string>
+<string name="clear_selected_call_log">"ล้างที่เลือกบันทึกการโทร "</string>
+<string name="select_all">"เลือกทั้งหมด"</string>
+<string name="unselect_all">"ยกเลิกการเลือกทั้งหมด"</string>
+<string name="sdn_list">"รายการ SDN"</string>
+<string name="lnd_list">"รายการ LND"</string>
+<string name="sim_no_ready">"SIMการ์ดไม่พร้อม."</string>
+<string name="select_card">"กรุณาเลือกการ์ด"</string>
+<string name="fast_dial_settings">"ตั้งค่าการโทรด่วน"</string>
+<string name="call_ip">"โทรIP"</string>
+<string name="ip_callNumber_by_sim_ex">"โทรIP <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"ไม่มีหมายเลขที่ใช้ได้"</string>
+<string name="send_mms">"ส่งข้อความ"</string>
+<string name="no_fast_dial">"หมายเลขโทรศัพท์โทรด่วนไม่ได้ตั้งค่า"</string>
+<string name="menu_addToBlacklist">"เพิ่มบัญชีดำ"</string>
+<string name="call_log_callNumber_by_sim_ex">"โทร<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"โทรวีดีโอ <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"โทรIP <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"ดูรายชื่อผู้ติดต่อ"</string>
+<string name="menu_deleteFromBlacklist">"ลบจากบัญชีดำ"</string>
+<string name="success_addToBlacklist">"เพิ่มสำเร็จ"</string>
+<string name="failed_addToBlacklist">"เพิ่มผิดพลาด"</string>
+<string name="delete_calls">"ลบ"</string>
+<string name="delete_selected_calls">"คุณแน่ใจว่าลบที่เลือก"</string>
+<string name="delete_all_calls_confirm">"คุณต้องการที่จะลบของคุณทั้งหมดหรือไม่ "</string>
+<string name="delete_contact_all_calls">"คุณแน่ใจที่จะลบรายชื่อผู้ติดต่อ บันทึกการโทรจดทะเบียน?"</string>
+<string name="call_log_contacts_not_save">"ไม่ทราบ"</string>
+<string name="toast_no_activity_to_handle_intent">"ประยุกต์การใช้ในการตอบสนอง! "</string>
+<string name="search_description">"ค้นหาเรียกเข้าสู่ระบบ"</string>
+<string name="doneButton">"เรียบร้อย"</string>
+<string name="cancel">"ยกเลิก"</string>
+<string name="select_all_sprd">"เลือกทั้งหมด"</string>
+<string name="sim_no_effect">"SIMโมฆะ"</string>
+<string name="delete_success">"ลบสำเร็จ"</string>
+<string name="error_icc_lock_dialog_message">"SIM การ์ดที่เลือกจะถูกล็อคในขณะนี้."</string>
+<string name="insert_sim_card">"กรุณาใส่SIMการ์ด"</string>
+<string name="simx">"SIM"</string>
+</resources>

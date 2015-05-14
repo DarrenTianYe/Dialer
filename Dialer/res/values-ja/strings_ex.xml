@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"発信"</string>
+<string name="call_log_incoming_title">"入って"</string>
+<string name="recentOutgoing_empty">"最近、発信されていません。"</string>
+<string name="recentIncoming_empty">"最近、着信しない。"</string>
+<string name="view_setting">"ビューの"</string>
+<string name="item_all_calls">"すべての通話記録"</string>
+<string name="item_sim_calls">"ＳＩＭｄの通話記録"</string>
+<string name="clear_all_call_log">"すべての通話記録を削除する"</string>
+<string name="clear_selected_call_log">"選択した通話記録を削除する"</string>
+<string name="select_all">"全てを選択"</string>
+<string name="unselect_all">"すべての選択を取消します"</string>
+<string name="sdn_list">"ＳＤＮリスト"</string>
+<string name="lnd_list">"ＬＮＤリスト"</string>
+<string name="sim_no_ready">"ＳＩＭカードが準備できない"</string>
+<string name="select_card">"ＳＩＭカードを選択してください"</string>
+<string name="fast_dial_settings">"速いダイヤルの設定"</string>
+<string name="call_ip">"IPコール"</string>
+<string name="ip_callNumber_by_sim_ex">"IP コール<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"利用可能の番号がない"</string>
+<string name="send_mms">"送信する"</string>
+<string name="no_fast_dial">"速い呼び出しの電話番号が設定されていない"</string>
+<string name="menu_addToBlacklist">"ブラックリストに追加します"</string>
+<string name="call_log_callNumber_by_sim_ex">"コール<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ビデオコール<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"連絡人を調べ"</string>
+<string name="menu_deleteFromBlacklist">"ブラシクリストから削除します"</string>
+<string name="success_addToBlacklist">"ブラシクリストに添加します"</string>
+<string name="failed_addToBlacklist">"ブラシクリストに添加するのが失敗します"</string>
+<string name="delete_calls">"削除"</string>
+<string name="delete_selected_calls">"あなたが選択した通話記録の削除を確信している"</string>
+<string name="delete_all_calls_confirm">"すべてあなたの通話記録を削除したいのですか？"</string>
+<string name="delete_contact_all_calls">"該の連絡のすべての通話記録を削除すると確信しますか"</string>
+<string name="call_log_contacts_not_save">"不明"</string>
+<string name="toast_no_activity_to_handle_intent">"応答への適用はない"</string>
+<string name="search_description">"通話記録を検索します"</string>
+<string name="doneButton">"完了"</string>
+<string name="cancel">"キャンセル"</string>
+<string name="select_all_sprd">"全てを選択"</string>
+<string name="sim_no_effect">"ＳＩＭカードが無効にする"</string>
+<string name="delete_success">"削除が成功します"</string>
+<string name="error_icc_lock_dialog_message">"選択したカードは現在ロックされています。"</string>
+<string name="insert_sim_card">"ＳＩＭカードを挿入してください。"</string>
+<string name="simx">"SIM"</string>
+</resources>

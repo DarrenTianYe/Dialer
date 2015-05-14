@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Palabas"</string>
+<string name="call_log_incoming_title">"Papasok"</string>
+<string name="recentOutgoing_empty">"Walang bagong palabas na tawag"</string>
+<string name="recentIncoming_empty">"Walang bagong papasok na tawag"</string>
+<string name="view_setting">"Tingnan"</string>
+<string name="item_all_calls">"Lahat ng listahan sa tawag"</string>
+<string name="item_sim_calls">"SIM%d listahan ng tawag""</string>
+<string name="clear_all_call_log">"Burahin lahat ng tawag sa listahan"</string>
+<string name="clear_selected_call_log">"Burahin ang mga napiling tawag sa listahan"</string>
+<string name="select_all">"Piliin Lahat"</string>
+<string name="unselect_all">"Wagpiliin lahat"</string>
+<string name="sdn_list">"SDN listahan"</string>
+<string name="lnd_list">"LND listahan"</string>
+<string name="sim_no_ready">"Sim kard hindi pa handa"</string>
+<string name="select_card">"Paki pili ng kard"</string>
+<string name="fast_dial_settings">"Mabilis na pag dayal ilwego"</string>
+<string name="call_ip">"Tawag na IP"</string>
+<string name="ip_callNumber_by_sim_ex">"IP Tawag<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Walang numero na makukuha"</string>
+<string name="send_mms">"Ipadala ang Mensahe"</string>
+<string name="no_fast_dial">"Mabilis na tawag sa numero ng telepono, hindi pa nailatag"</string>
+<string name="menu_addToBlacklist">"Idagdag sa mga listahan ng mga hinaharang"</string>
+<string name="call_log_callNumber_by_sim_ex">"Tawag<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Bidyo Tawag<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Tingnan ang kontak"</string>
+<string name="menu_deleteFromBlacklist">"Burahin sa mga listahan na hinarang"</string>
+<string name="success_addToBlacklist">"Dagdag tagumpay"</string>
+<string name="failed_addToBlacklist">"Dagdag bigo"</string>
+<string name="delete_calls">"Burahin"</string>
+<string name="delete_selected_calls">"Sigurado ka buburahin ang mga napiling rekords"</string>
+<string name="delete_all_calls_confirm">"Nais mo bang burahin lahat ng rekords mo?"</string>
+<string name="delete_contact_all_calls">"Sigurado ka na burahin lahat ng kontaks sa listahan ng mga tawag?"</string>
+<string name="call_log_contacts_not_save">"Di-matukoy"</string>
+<string name="toast_no_activity_to_handle_intent">"Walang aplikasyon na dapat sagutin!"</string>
+<string name="search_description">"Hanapin ang listahan sa tawag"</string>
+<string name="doneButton">"Tapos na"</string>
+<string name="cancel">"Kanselahin"</string>
+<string name="select_all_sprd">"Piliin Lahat"</string>
+<string name="sim_no_effect">"SIM Dinapatunayan"</string>
+<string name="delete_success">"Pagbubura tagumpay"</string>
+<string name="error_icc_lock_dialog_message">"Ang napiling SIM kard ay nakakandado na"</string>
+<string name="insert_sim_card">"Paki pasok sa SIM kard"</string>
+<string name="simx">"SIM"</string>
+</resources>

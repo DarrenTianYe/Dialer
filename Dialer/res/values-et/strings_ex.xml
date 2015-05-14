@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (C) 2012 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- SPRD: add strings of MUI -->
+    <string name="menu_allContacts">"Kõik kontaktid"</string>
+    <string name="search_shortcut_call_number">Helista
+        <xliff:g id="number">%s</xliff:g>
+    </string>
+    <string name="search_shortcut_add_to_contacts">"Lisa kontaktidesse"</string>
+    <string name="num_missed_calls"><xliff:g id="number">%s</xliff:g> uut vastamata kõnet </string>
+    <string name="no_favorites">"Siin kuvatakse lemmikud ja kontaktid kellele\nhelistad sageli. \nAlusta helistamist."</string>
+    <string name="contact_tooltip">"Puuduta pilti et näha kõiki numbreid või vajuta ja hoia et ümberreastada"</string>
+    <string name="description_dismiss">"Loobu"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Väljaminevad"</string>
+    <string name="call_log_incoming_title">"Sissetulevad"</string>
+    <string name="recentOutgoing_empty">"Hiljutised väljaminevad kõned puuduvad."</string>
+    <string name="recentIncoming_empty">"Hiljutised sissetulevad kõned puuduvad."</string>
+    <string name="view_setting">"Näita"</string>
+    <string name="item_all_calls">"Kõik kõnelogid"</string>
+    <string name="item_sim_calls">"SIM%d kõnelogid"</string>
+    <string name="clear_all_call_log">"Tühjenda kogu kõnelogi"</string>
+    <string name="clear_selected_call_log">"Tühjenda valitud kõnelogi"</string>
+    <string name="select_all">"Vali kõik"</string>
+    <string name="unselect_all">"Tühista kõik valikud"</string>
+    <string name="sdn_list">"SDN nimekiri"</string>
+    <string name="lnd_list">"LND nimekiri"</string>
+    <string name="sim_no_ready">"Sim kaart pole valmis."</string>
+    <string name="select_card">"Palun vali kaart"</string>
+    <string name="fast_dial_settings">"kiirvalimise valikud"</string>
+    <string name="call_ip">"IP Kõne"</string>
+    <string name="ip_callNumber_by_sim_ex">"IP Kõne<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+    <string name="no_available_number">"Numbreid pole saadaval"</string>
+    <string name="send_mms">"Saada sõnum"</string>
+    <string name="no_fast_dial">"kiirvalimise number pole seadistatud"</string>
+    <string name="menu_addToBlacklist">"Lisa musta nimekirja"</string>
+    <string name="call_log_callNumber_by_sim_ex">"Kõne<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+    <string name="video_callNumber_by_sim_ex">"Vide kõne<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+    <string name="ip_callNumber_by_sim_ex">"IP Kõne<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+    <string name="menu_viewContact">"Näita kontakti"</string>
+    <string name="menu_deleteFromBlacklist">"Kustuta mustast listist"</string>
+    <string name="success_addToBlacklist">"Lisa edu"</string>
+    <string name="failed_addToBlacklist">"Lisamine nurjus"</string>
+    <string name="delete_calls">"Kustuta"</string>
+    <string name="delete_selected_calls">"Kas oled kindel, et soovid valitud salvestused kustutada"</string>
+    <string name="delete_all_calls_confirm">"Kas oled kindel, et soovid kõik salvestused kustutada?"</string>
+    <string name="delete_contact_all_calls">"Kas oled kindel, et soovid kustutada kontakti valitud kõnelogi?"</string>
+    <string name="call_log_contacts_not_save">"Tundmatu"</string>
+    <string name="toast_no_activity_to_handle_intent">"Vastamiseks puudub rakendus!"</string>
+    <string name="search_description">"otsi kõnelogi"</string>
+    <string name="doneButton">"Tehtud"</string>
+    <string name="cancel">"Tühista"</string>
+    <string name="select_all_sprd">"Vali kõik"</string>
+    <string name="sim_no_effect">"SIM on kehtetu"</string>
+    <string name="delete_success">"Kustuta edu"</string>
+    <string name="error_icc_lock_dialog_message">"Valitud SIM kaart on nüüd lukustatud."</string>
+    <string name="insert_sim_card">"Palun sisesta SIM kaart."</string>
+    <string name="simx">"SIM"</string>
+
+</resources>

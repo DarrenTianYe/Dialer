@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Odhodni"</string>
+<string name="call_log_incoming_title">"Dohodni"</string>
+<string name="recentOutgoing_empty">"Ni nedavnih odhodnih klicev."</string>
+<string name="recentIncoming_empty">"Ni nedavnih prejetih klicev."</string>
+<string name="view_setting">"Pogled"</string>
+<string name="item_all_calls">"Dnevnik vseh klicev"</string>
+<string name="item_sim_calls">"SIM%d zgodovina klicev"</string>
+<string name="clear_all_call_log">"Počisti celoten dnevnik klicev"</string>
+<string name="clear_selected_call_log">"Počisti izbran dnevnik klicev"</string>
+<string name="select_all">"Izberi vse"</string>
+<string name="unselect_all">"Počisti izbiro"</string>
+<string name="sdn_list">"SDN seznam"</string>
+<string name="lnd_list">"LND seznam"</string>
+<string name="sim_no_ready">"Sim kartica ni pripravljena."</string>
+<string name="select_card">"Izberite kartico"</string>
+<string name="fast_dial_settings">"nastavitve hitrega klicanja"</string>
+<string name="call_ip">"IP klic"</string>
+<string name="ip_callNumber_by_sim_ex">"IP klic<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Na voljo ni številk"</string>
+<string name="send_mms">"Pošlji sporočilo"</string>
+<string name="no_fast_dial">"Številke za hitro klicanje niso nastavljene"</string>
+<string name="menu_addToBlacklist">"Dodaj na seznam blokiranih"</string>
+<string name="call_log_callNumber_by_sim_ex">"Klic <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Video klic<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Poglej stik"</string>
+<string name="menu_deleteFromBlacklist">"Zbriši iz črne liste"</string>
+<string name="success_addToBlacklist">"Dodajanje uspešno"</string>
+<string name="failed_addToBlacklist">"Dodajanje ni uspelo"</string>
+<string name="delete_calls">"Izbriši"</string>
+<string name="delete_selected_calls">"Ste prepričani, da hočete zbrisati izbrane klice?"</string>
+<string name="delete_all_calls_confirm">"Hočete zbrisati dnevnike vseh klicev?"</string>
+<string name="delete_contact_all_calls">"Ste prepričani, da hočete zbrisati seznam klicev tega stika?"</string>
+<string name="call_log_contacts_not_save">"Neznano"</string>
+<string name="toast_no_activity_to_handle_intent">"Ni aplikacije za odpiranje!"</string>
+<string name="search_description">"Preišči dnevnik klicev"</string>
+<string name="doneButton">"Končano"</string>
+<string name="cancel">"Prekini"</string>
+<string name="select_all_sprd">"Izberi vse"</string>
+<string name="sim_no_effect">"SIM razveljavljen"</string>
+<string name="delete_success">"Brisanje uspešno"</string>
+<string name="error_icc_lock_dialog_message">"Izbrana SIM kartica je zdaj zaklenjena."</string>
+<string name="insert_sim_card">"Vstavite SIM kartico."</string>
+<string name="simx">"SIM"</string>
+</resources>

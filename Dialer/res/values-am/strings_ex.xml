@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"ወጪ"</string>
+<string name="call_log_incoming_title">"ገቢ"</string>
+<string name="recentOutgoing_empty">"የአሁን ወጪ ጥሪዎች የለም።"</string>
+<string name="recentIncoming_empty">"የአሁን ገቢ ጥሪዎች የለም።"</string>
+<string name="view_setting">"ዕይታ"</string>
+<string name="item_all_calls">"ሁሉም ምዝግብ ማስተዋሻዎች"</string>
+<string name="item_sim_calls">"SIM%d የጥሪ ምዝግብ ማስተዋሻዎች"</string>
+<string name="clear_all_call_log">"ሁሉም የጥሪ ምዝግብ ማስተዋሻዎች አጽዳ"</string>
+<string name="clear_selected_call_log">"ሁሉም የተመረጡ ምዝግብ ማስተዋሻዎች አጽዳ"</string>
+<string name="select_all">"ሁሉንም ምረጥ "</string>
+<string name="unselect_all">"ሁሉም ምረጥ"</string>
+<string name="sdn_list">"SDN ዝርዝር"</string>
+<string name="lnd_list">"LND ዝርዝር"</string>
+<string name="sim_no_ready">"Sim ካርድ ዝግጁ አይደለም።"</string>
+<string name="select_card">"እባክዎ ካርድ ይምረጡ"</string>
+<string name="fast_dial_settings">"ፈጣን ደዋይ ማቀናበርያዎች"</string>
+<string name="call_ip">"IP ጥሪ"</string>
+<string name="ip_callNumber_by_sim_ex">"IP ጥሪ <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"ምንም ቁጠር የለም"</string>
+<string name="send_mms">"መልዕክት ላክ"</string>
+<string name="no_fast_dial">" ፈጣን መደወያ ስልክ ቁጥር አዘጋጅ"</string>
+<string name="menu_addToBlacklist">" ወደ ጥቁር መዝገብ አስገባ"</string>
+<string name="call_log_callNumber_by_sim_ex">"ጥሪ <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"የቪድዮ ጥሪl<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"ዕውቂያዎች እይ"</string>
+<string name="menu_deleteFromBlacklist">" ከ ጥቁር መዝገብ አጥፋ"</string>
+<string name="success_addToBlacklist">"መጨመር ተዳክቷል"</string>
+<string name="failed_addToBlacklist">"መጨመር አልተሳካም"</string>
+<string name="delete_calls">"ሰርዝ"</string>
+<string name="delete_selected_calls">"የተመረጡ ቅጂዎች እንዲጠፋ እርግጠኛ ነዎት"</string>
+<string name="delete_all_calls_confirm">" ሁሉንም የራስዎን ቅጂዎች ማጥፋት ፈልገዋል?"</string>
+<string name="delete_contact_all_calls">" በምዝግብ ማስተዋሻ የተዘረዘሩ ዕውቂያዎች ለማጥፋት እርግጠኛ ነዎት?"</string>
+<string name="call_log_contacts_not_save">"የማይታወቅ"</string>
+<string name="toast_no_activity_to_handle_intent">"የሚመለስ ምንም ዓይነት መተግበርያ የለም!"</string>
+<string name="search_description">"የጥሪ ምዝግብ ማስተዋሻዎች ፈልግ"</string>
+<string name="doneButton">"ሰርቷል"</string>
+<string name="cancel">"ሰርዝ"</string>
+<string name="select_all_sprd">"ሁሉንም ምረጥ "</string>
+<string name="sim_no_effect">"SIM ከጥቅም ውጭ አድርግ"</string>
+<string name="delete_success">"ማጥፋት ተሳክቷል"</string>
+<string name="error_icc_lock_dialog_message">"የተመረጠው SIM ካርድ አሁን ተዘግቷል።"</string>
+<string name="insert_sim_card">" እባክዎ SIM ያስገቡ "</string>
+<string name="simx">"SIM"</string>
+</resources>

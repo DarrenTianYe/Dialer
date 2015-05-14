@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"आउटगोइंग"</string>
+<string name="call_log_incoming_title">"इनकमिंग"</string>
+<string name="recentOutgoing_empty">"कोई हालिया आउटगोइंग कॉलें नहीं हैं"</string>
+<string name="recentIncoming_empty">"कोई हालिया इनकमिंग कॉलें नहीं हैं "</string>
+<string name="view_setting">"देखें"</string>
+<string name="item_all_calls">"सभी कॉल लोगज़"</string>
+<string name="item_sim_calls">"SIM%d कॉल लोगज़"</string>
+<string name="clear_all_call_log">"सभी कॉल लोगज़ को हटाएं"</string>
+<string name="clear_selected_call_log">"चुने गए कॉल लोगज़ को हटाएं "</string>
+<string name="select_all">"सभी को चुनें"</string>
+<string name="unselect_all">"सभी को अचयनित करें"</string>
+<string name="sdn_list">"SDN सूची"</string>
+<string name="lnd_list">"LND सूची"</string>
+<string name="sim_no_ready">"Sim कार्ड तैयार नहीं है।"</string>
+<string name="select_card">"कृपया कार्ड चुनें"</string>
+<string name="fast_dial_settings">"फास्ट डायल सैटिंग्स"</string>
+<string name="call_ip">"IP कॉल"</string>
+<string name="ip_callNumber_by_sim_ex">"IP कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"कोई नंबर उपलब्ध नहीं हैं"</string>
+<string name="send_mms">"संदेश भेजें"</string>
+<string name="no_fast_dial">"फास्ट कॉल फोन नंबर सैट नहीं है"</string>
+<string name="menu_addToBlacklist">"ब्लैकलिस्ट में जोड़ें"</string>
+<string name="call_log_callNumber_by_sim_ex">"कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"वीडियो कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"सम्पर्क देखें"</string>
+<string name="menu_deleteFromBlacklist">"ब्लैकलिस्ट से मिटाएं"</string>
+<string name="success_addToBlacklist">"जोड़ना सफल"</string>
+<string name="failed_addToBlacklist">"जोड़ना असफल"</string>
+<string name="delete_calls">"मिटाएं"</string>
+<string name="delete_selected_calls">"क्या आप पक्का चुने रिकॉर्ड को मिटाना चाहते हैं"</string>
+<string name="delete_all_calls_confirm">"क्या आप अपने सभी रिकॉर्डज़ को मिटाना चाहते हैं?"</string>
+<string name="delete_contact_all_calls">"क्या आप पक्का सूचीबद्ध सम्पर्क कॉल लोगज़ को मिटाना चाहते हैं?"</string>
+<string name="call_log_contacts_not_save">"अज्ञात"</string>
+<string name="toast_no_activity_to_handle_intent">"उत्तर के लिए कोई एप्लीकेशन नहीं!"</string>
+<string name="search_description">"callLog खोजें"</string>
+<string name="doneButton">"कार्य पूर्ण"</string>
+<string name="cancel">"निरस्त करें"</string>
+<string name="select_all_sprd">"सभी को चुनें"</string>
+<string name="sim_no_effect">"SIM अमान्य"</string>
+<string name="delete_success">"मिटाना सफल"</string>
+<string name="error_icc_lock_dialog_message">"चुना गया SIM कार्ड अब लॉक किया गया है।"</string>
+<string name="insert_sim_card">"कृपया SIM कार्ड डालें"</string>
+<string name="simx">"SIM"</string>
+</resources>

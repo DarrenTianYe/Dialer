@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"صادره"</string>
+<string name="call_log_incoming_title">"ورودی"</string>
+<string name="recentOutgoing_empty">"تماس خروجی جدید موجود نیست."</string>
+<string name="recentIncoming_empty">"تماس ورودی جدید موجود نیست."</string>
+<string name="view_setting">"نمایش"</string>
+<string name="item_all_calls">"تمام ثبت تماس ها"</string>
+<string name="item_sim_calls">"ثبت تماس های SIM%d"</string>
+<string name="clear_all_call_log">"پاک کردن تمام ثبت تماس ها"</string>
+<string name="clear_selected_call_log">"پاک کردن ثبت تماس های انتخابی"</string>
+<string name="select_all">"انتخاب همه"</string>
+<string name="unselect_all">"انتخاب نکردن همه"</string>
+<string name="sdn_list">"SDN لیست"</string>
+<string name="lnd_list">"LND لیست"</string>
+<string name="sim_no_ready">"سیم کارت حاضر نیست"</string>
+<string name="select_card">"لطفا کارت را انتخاب نمایید"</string>
+<string name="fast_dial_settings">"تنظیمات شماره گیری سریع"</string>
+<string name="call_ip">"شماره گیری از طریق IP"</string>
+<string name="ip_callNumber_by_sim_ex">"شماره گیری از طریق IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"هیچ شماره ای در دسترس نیست"</string>
+<string name="send_mms">"ارسال پیام"</string>
+<string name="no_fast_dial">"شماره ای برای شماره گیری سریع تنظیم نشده است"</string>
+<string name="menu_addToBlacklist">"اضافه کردن به لیست سیاه"</string>
+<string name="call_log_callNumber_by_sim_ex">"تماس با <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"تماس تصویری با<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"شماره گیری از طریق IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"نمایش مخاطب"</string>
+<string name="menu_deleteFromBlacklist">"حذف از لیست سیاه"</string>
+<string name="success_addToBlacklist">"موفقیت در اضافه کردن"</string>
+<string name="failed_addToBlacklist">"عدم موفقیت در اضافه کردن"</string>
+<string name="delete_calls">"حذف"</string>
+<string name="delete_selected_calls">"از حذف موارد انتخاب شده اطمینان دارید؟"</string>
+<string name="delete_all_calls_confirm">"آیا می خواهید تمام موارد ثبت شده را حذف کنید؟"</string>
+<string name="delete_contact_all_calls">"از حذف ثبت تماس های مخاطبان اطمینان دارید؟"</string>
+<string name="call_log_contacts_not_save">"ناشناس"</string>
+<string name="toast_no_activity_to_handle_intent">"برنامه ای برای پاسخگویی موجود نیست!"</string>
+<string name="search_description">"جستجوی ثبت تماس ها"</string>
+<string name="doneButton">"انجام شد"</string>
+<string name="cancel">"انصراف"</string>
+<string name="select_all_sprd">"انتخاب همه"</string>
+<string name="sim_no_effect">"SIM باطل شد"</string>
+<string name="delete_success">"موفقیت در حذف"</string>
+<string name="error_icc_lock_dialog_message">"SIM انتخاب شده اکنون قفل شده است."</string>
+<string name="insert_sim_card">"لطفا SIM را وارد کنید."</string>
+<string name="simx">"SIM"</string>
+</resources>

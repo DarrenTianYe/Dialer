@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"வெளிச்செல்லும்"</string>
+<string name="call_log_incoming_title">"உள்வரும்"</string>
+<string name="recentOutgoing_empty">"சமீபத்திய வெளிச்செல்லும் அழைப்புகள் இல்லை."</string>
+<string name="recentIncoming_empty">"சமீபத்திய உள்வரும் அழைப்புகள் இல்லை."</string>
+<string name="view_setting">"காட்டு"</string>
+<string name="item_all_calls">"அனைத்து அழைப்புப் பதிவுகள்"</string>
+<string name="item_sim_calls">"SIM%d அழைப்புப் பதிவுகள்"</string>
+<string name="clear_all_call_log">"அனைத்து அழைப்புப் பதிவுகளையும் அழி"</string>
+<string name="clear_selected_call_log">"தேர்ந்தெடுக்கப்பட்ட அழைப்புப் பதிவுகளை அழி"</string>
+<string name="select_all">"அனைத்தையும் தேர்ந்தெடு"</string>
+<string name="unselect_all">"அனைத்தையும் தேர்வுநீக்கு"</string>
+<string name="sdn_list">"SDN பட்டியல்"</string>
+<string name="lnd_list">"LND பட்டியல்"</string>
+<string name="sim_no_ready">"Sim கார்டு தயார் இல்லை."</string>
+<string name="select_card">"தயவுசெய்து கார்டைத் தேர்ந்தெடு"</string>
+<string name="fast_dial_settings">"விரைவு டயல் அமைவுகள்"</string>
+<string name="call_ip">"IP அழைப்பு"</string>
+<string name="ip_callNumber_by_sim_ex">"IP அழைப்பு<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"எந்த எண்களும் கிடைக்கவில்லை"</string>
+<string name="send_mms">"செய்தி அனுப்பு"</string>
+<string name="no_fast_dial">"விரைவு அழைப்பு தொலைபேசி எண் அமைக்கப்படவில்லை"</string>
+<string name="menu_addToBlacklist">"தடுப்புப் பட்டியலிற்குச் சேர்"</string>
+<string name="call_log_callNumber_by_sim_ex">"அழைப்பு<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"வீடியோ அழைப்பு<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"தொடர்பைக் காட்டு"</string>
+<string name="menu_deleteFromBlacklist">"தடுப்புப் பட்டியலிலிருந்து நீக்கு"</string>
+<string name="success_addToBlacklist">"சேர்த்தல் வெற்றியடைந்தது"</string>
+<string name="failed_addToBlacklist">"சேர்த்தல் தோல்வியடைந்தது"</string>
+<string name="delete_calls">"நீக்கு"</string>
+<string name="delete_selected_calls">"தேர்ந்தெடுக்கப்பட்ட பதிவேடுகளை நீக்குவதில் நீங்கள் உறுதியாக உள்ளீர்களா"</string>
+<string name="delete_all_calls_confirm">"நீங்கள் உங்கள் பதிவேடுகள் அனைத்தையும் நீக்க விரும்புகின்றீர்களா?"</string>
+<string name="delete_contact_all_calls">"அழைப்புப் பதிவுகளில் பட்டியலிடப்பட்ட தொடர்புகளை நீக்குவதில் நீங்கள் உறுதியாக உள்ளீர்களா?"</string>
+<string name="call_log_contacts_not_save">"அறியாத"</string>
+<string name="toast_no_activity_to_handle_intent">"மறுமொழியளிப்பதற்கு எந்தஒரு பயன்பாடும் இல்லை!"</string>
+<string name="search_description">"அழைப்புப் பதிவைத் தேடு"</string>
+<string name="doneButton">"முடிந்தது"</string>
+<string name="cancel">"ரத்துசெய்"</string>
+<string name="select_all_sprd">"அனைத்தையும் தேர்ந்தெடு"</string>
+<string name="sim_no_effect">"SIM செல்லுபடியாகாதது"</string>
+<string name="delete_success">"நீக்குதல் வெற்றியடைந்தது"</string>
+<string name="error_icc_lock_dialog_message">"தேர்வுசெய்யப்பட்ட SIM கார்டு இப்போது பூட்டப்பட்டுள்ளது."</string>
+<string name="insert_sim_card">"தயவுசெய்து SIM கார்டைச் செருகவும்."</string>
+<string name="simx">"SIM"</string>
+</resources>

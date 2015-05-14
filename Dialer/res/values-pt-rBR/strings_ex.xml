@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Saída"</string>
+<string name="call_log_incoming_title">"Entrada"</string>
+<string name="recentOutgoing_empty">"Sem chamadas de saída recentes."</string>
+<string name="recentIncoming_empty">"Sem chamadas de entrada recentes."</string>
+<string name="view_setting">"Ver"</string>
+<string name="item_all_calls">"Todos os logs de chamada"</string>
+<string name="item_sim_calls">"SIM%d log de chamada"</string>
+<string name="clear_all_call_log">"Limpar todo o log de chamada"</string>
+<string name="clear_selected_call_log">"Limpar o log de chamada selecionado"</string>
+<string name="select_all">"Sele. tudo"</string>
+<string name="unselect_all">"Desele. tudo"</string>
+<string name="sdn_list">"SDN lista"</string>
+<string name="lnd_list">"LND lista"</string>
+<string name="sim_no_ready">"SIM cartão não pronto"</string>
+<string name="select_card">"Favor selecione o cartão"</string>
+<string name="fast_dial_settings">"Ajuste de chamada rápida"</string>
+<string name="call_ip">"IP Chamada"</string>
+<string name="ip_callNumber_by_sim_ex">"IP Call<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Sem números disponíveis"</string>
+<string name="send_mms">"Enviar mensagem"</string>
+<string name="no_fast_dial">"Número de telefone de chamada rápida não ajustado"</string>
+<string name="menu_addToBlacklist">"Adicionar para pretalista"</string>
+<string name="call_log_callNumber_by_sim_ex">"Chamar<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Chamada de Vídeo<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Ver contato"</string>
+<string name="menu_deleteFromBlacklist">"Deletar de pretalista"</string>
+<string name="success_addToBlacklist">"Adicionar sucesso"</string>
+<string name="failed_addToBlacklist">"Falha adicionar"</string>
+<string name="delete_calls">"Deletar"</string>
+<string name="delete_selected_calls">"Se quer deletar as gravações selecionadas"</string>
+<string name="delete_all_calls_confirm">"Se quer deletar as gravações de todas as suas?"</string>
+<string name="delete_contact_all_calls">"Se quer deletar os logs de chamada listados de contato?"</string>
+<string name="call_log_contacts_not_save">"Desconhecido"</string>
+<string name="toast_no_activity_to_handle_intent">"Sem Aplicação para responder!"</string>
+<string name="search_description">"Buscar chamadaLog"</string>
+<string name="doneButton">"Feito"</string>
+<string name="cancel">"Cancelar"</string>
+<string name="select_all_sprd">"Sele. tudo"</string>
+<string name="sim_no_effect">"SIM inválido"</string>
+<string name="delete_success">"Deletar com sucesso"</string>
+<string name="error_icc_lock_dialog_message">"O SIM cartão selecionado é trancado agora."</string>
+<string name="insert_sim_card">"Favor insera o SIM cartão."</string>
+<string name="simx">"SIM"</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Исходящие"</string>
+<string name="call_log_incoming_title">"Принятые"</string>
+<string name="recentOutgoing_empty">"Нет последних исходящих вызовов "</string>
+<string name="recentIncoming_empty">"Нет последних входящих вызовов."</string>
+<string name="view_setting">"Вид "</string>
+<string name="item_all_calls">"Все журналы вызовов"</string>
+<string name="item_sim_calls">"Журналы звонков SIM%d"</string>
+<string name="clear_all_call_log">"Удалить все записи звонков"</string>
+<string name="clear_selected_call_log">"Удалить выбранную запись звонков"</string>
+<string name="select_all">"Выбрать все"</string>
+<string name="unselect_all">"Отменить выбрать все"</string>
+<string name="sdn_list">"Список SDN"</string>
+<string name="lnd_list">"Список LND "</string>
+<string name="sim_no_ready">"SIM-карта не готова "</string>
+<string name="select_card">"Пожалуйста, выберите карту"</string>
+<string name="fast_dial_settings">"Настройки быстрого набора"</string>
+<string name="call_ip">"IP-вызов"</string>
+<string name="ip_callNumber_by_sim_ex">"IP-вызов<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Нет доступных номеров"</string>
+<string name="send_mms">"Отправить сообщение"</string>
+<string name="no_fast_dial">"Номер быстрого вызова не установлен_x000D_
+
+"</string>
+<string name="menu_addToBlacklist">"Добавить в чёрный список"</string>
+<string name="call_log_callNumber_by_sim_ex">"Вызвать<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Видеозвонок<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP-вызов<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Просмотр контакта"</string>
+<string name="menu_deleteFromBlacklist">"Удалить из черного списка"</string>
+<string name="success_addToBlacklist">"Добавление завершено"</string>
+<string name="failed_addToBlacklist">"Не удалось добавить"</string>
+<string name="delete_calls">"Удалить"</string>
+<string name="delete_selected_calls">"Вы уверены, что хотите удалить выбранную запись? "</string>
+<string name="delete_all_calls_confirm">"Вы уверены, что хотите удалить все записи звонков? "</string>
+<string name="delete_contact_all_calls">"Вы уверены, что хотите удалить перечисленные записи вызовов контакта?"</string>
+<string name="call_log_contacts_not_save">"Неизвестен"</string>
+<string name="toast_no_activity_to_handle_intent">"Нет приложения для отклика! "</string>
+<string name="search_description">"Поиск журнала звонков"</string>
+<string name="doneButton">"Сделано"</string>
+<string name="cancel">"Отменить"</string>
+<string name="select_all_sprd">"Выбрать все"</string>
+<string name="sim_no_effect">"SIM-карта не действительна"</string>
+<string name="delete_success">"Удаление заершено"</string>
+<string name="error_icc_lock_dialog_message">"Выбранная SIM-карта в настоящее время заблокирована."</string>
+<string name="insert_sim_card">"Пожалуйста, вставьте SIM-карту"</string>
+<string name="simx">"SIM"</string>
+</resources>

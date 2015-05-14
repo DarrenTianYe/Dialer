@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"ئۇرغان"</string>
+<string name="call_log_incoming_title">"كىرگەن"</string>
+<string name="recentOutgoing_empty">"يىقىندا چاقىرىلغان تېلېفۇن يوق."</string>
+<string name="recentIncoming_empty">"يىقىندا كىرگەن تېلېفۇن يوق."</string>
+<string name="view_setting">"كۆرۈش"</string>
+<string name="item_all_calls">"ھەممە تېلېفۇن خاتىرىسى"</string>
+<string name="item_sim_calls">"SIM%d تېلېفۇن خاتىرىسى"</string>
+<string name="clear_all_call_log">"ھەممە تېلېفۇن خاتىرىسىنى ئۆچۈرۈش"</string>
+<string name="clear_selected_call_log">"تاللانغان تېلېفۇن خاتىرىسىنى ئۆچۈرۈش"</string>
+<string name="select_all">"ھەممىنى تاللاش"</string>
+<string name="unselect_all">"ھەممە تاللاشنى بىكار قىلىش"</string>
+<string name="sdn_list">"SDN تىزىملىكى"</string>
+<string name="lnd_list">"LND تىزىملىكى"</string>
+<string name="sim_no_ready">"Sim كارتا تەييارلىنىپ بولمىغان."</string>
+<string name="select_card">"كارتا تاللاڭ"</string>
+<string name="fast_dial_settings">"تېز نومۇر بۇراش تەڭشەكلىرى"</string>
+<string name="call_ip">"IP چاقىرىش"</string>
+<string name="ip_callNumber_by_sim_ex">"IP چاقىرىش <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"ئىشلەتكىلى بولىدىغان نومۇر يوق"</string>
+<string name="send_mms">"قىسقا ئۇچۇر يوللاش"</string>
+<string name="no_fast_dial">"تېز چاقىرىش نومۇرى بېكىتىلمىگەن"</string>
+<string name="menu_addToBlacklist">"قارا تېزىملىككە قىتىش"</string>
+<string name="call_log_callNumber_by_sim_ex">"چاقىرىش <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"سىنلىق چاقىرىش <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"ئالاقىداشنى كۆرۈش"</string>
+<string name="menu_deleteFromBlacklist">"قارا تىزىملىكتىن ئۆچۈرۈش"</string>
+<string name="success_addToBlacklist">"قېتىش مۇۋاپپىقىيەتلىك بولدى"</string>
+<string name="failed_addToBlacklist">"ھۆججەت قېتىش"</string>
+<string name="delete_calls">"ئۆچۈرۈش"</string>
+<string name="delete_selected_calls">"تاللانغان خاتىرىنى ئۆچۈرۈشكە جەزىم قىلامسىز"</string>
+<string name="delete_all_calls_confirm">"ھەممە خاتىرىڭىزنى ئۆچۈرمەكچىمۇ؟"</string>
+<string name="delete_contact_all_calls">"ئالاقىداشنىڭ تېزلىغان ھەممە خاتىرىسىنى ئۆچۈرۈشكە جەزىم قىلامسىز؟"</string>
+<string name="call_log_contacts_not_save">"نامەلۇم"</string>
+<string name="toast_no_activity_to_handle_intent">"قوللانما دېتال ئىنكاسى يوق!"</string>
+<string name="search_description">"چاقىرىش خاتىرىسىنى ئىزدەش"</string>
+<string name="doneButton">"تامام"</string>
+<string name="cancel">"قالدۇرۇش"</string>
+<string name="select_all_sprd">"ھەممىنى تاللاش"</string>
+<string name="sim_no_effect">"SIM ئۈنۈمسىز"</string>
+<string name="delete_success">"ئۆچۈرۈش مۇۋاپپىقىيەتلىك بولدى"</string>
+<string name="error_icc_lock_dialog_message">"تاللانغان SIM كارتا قولۇپلاندى."</string>
+<string name="insert_sim_card">"SIM كارتا قىستۇرۇڭ."</string>
+<string name="simx">"SIM"</string>
+</resources>

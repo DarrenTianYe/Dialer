@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="applicationLabel">ဖုန္းနံပါတ္ႏွိပ္သည့္မ်က္ႏွာျပင္</string>
+<string name="launcherDialer">ဖုန္း</string>
+<string name="dialerIconLabel">ဖုန္း</string>
+<string name="recentCallsIconLabel">ဖုန္းေခၚဆုိမႈမွတ္တမ္း</string>
+<string name="menu_sendTextMessage">သတင်းပိုလွက်</string>
+<string name="recentCalls_callNumber">"ဖုန္းေခၚ <xliff:g id="name">%s</xliff:g> "</string>
+<string name="recentCalls_editNumberBeforeCall">ဖုန္းမေခၚဆိုခင္ နံပါတ္ကို တည္းျဖတ္မည္</string>
+<string name="recentCalls_addToContact">ဆက္သြယ္သူသို ့ထည့္</string>
+<string name="recentCalls_removeFromRecentList">ဖုန္းေခၚဆိုမႈမွတ္တမ္းမွ ဖယ္႐ွားမည္</string>
+<string name="recentCalls_deleteAll">"ဖုန္းေလာ့မ်ား ပယ္ဖ်က္ပါ "</string>
+<string name="recentCalls_trashVoicemail">အသံေမးလ္ဖ်က္ပါ</string>
+<string name="recentCalls_shareVoicemail">အသံေမးလ္ေဝမွ်ပါ</string>
+<string name="recentCalls_empty">ဖုန္းေခၚဆိုမႈမွတ္တမ္း ဗလာျဖစ္ေနသည္။</string>
+<string name="clearCallLogConfirmation_title">"ဖုန္းေလာ့မ်ား ပယ္ဖ်က္မွာလား?"</string>
+<string name="clearCallLogConfirmation">"သင္ေရြးခ်ယ္သည့္ဖုန္းမွတ္တမ္းမ်ား ပယ္ဖ်က္လိမ့္မည္."</string>
+<string name="clearCallLogProgress_title">ဖုန္းေခၚဆိုမႈမွတ္တမ္းကို ႐ွင္းလင္းေနဆဲ\u2026</string>
+<plurals name="notification_voicemail_title">
+<item quantity="one">အသံေမးလ္</item>
+</plurals>
+<string name="notification_action_voicemail_play">"ဖြင့္ပါ"</string>
+<string name="notification_voicemail_callers_list">"<xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g> "</string>
+<string name="notification_new_voicemail_ticker">"မွအသံေမးလ္အသစ္ <xliff:g id="caller">%1$s</xliff:g> "</string>
+<string name="voicemail_playback_error">အသံေမးလ္မဖြင့္ႏိုင္ပါ။</string>
+<string name="voicemail_buffering">ၾကားခံအျဖစ္ေဆာင္႐ြက္ေနဆဲ\u2026</string>
+<string name="voicemail_fetching_content">အသံေမးလ္ရယူေနဆဲ\u2026</string>
+<string name="voicemail_fetching_timout">အသံေမးလ္မရယူႏိုင္ပါ။</string>
+<string name="call_log_voicemail_header">"အသံေမးလ္ျဖင့္သာ ေခၚပါ"</string>
+<string name="call_log_incoming_header">"အ၀င္ဖုန္း အတြက္သာ"</string>
+<string name="call_log_outgoing_header">"အထြက္ဖုန္း အတြက္သာ"</string>
+<string name="call_log_missed_header">"လက္မခံမိသည့္ဖုန္း အတြက္သာ"</string>
+<string name="voicemail_status_voicemail_not_available">အသံေမးလ္ဆာဗာသို႔ မခ်ိတ္ဆက္ႏုိင္ပါ။</string>
+<string name="voicemail_status_messages_waiting">"အသံေမးလ္ဆာဗာနွင့္ ဆက္သြယ္မရနိုင္.အသံေမးလ္အသစ္မ်ား ေစာင့္ေနသည္. "</string>
+<string name="voicemail_status_configure_voicemail">သင့္အသံေမးလ္အဆင္အျပင္ထား႐ွိပါ။</string>
+<string name="voicemail_status_audio_not_available">သီခ်င္းအပုဒ္မရ႐ွိႏိုင္ပါ။</string>
+<string name="voicemail_status_action_configure">အဆင္အျပင္ထား႐ွိပါ</string>
+<string name="voicemail_status_action_call_server">အသံေမးလ္ေခၚဆိုပါ</string>
+<string name="voicemail_speed_slowest">ျမန္ႏႈန္းအေႏွးဆံုး</string>
+<string name="voicemail_speed_slower">ျမန္ႏႈန္းအေႏွး</string>
+<string name="voicemail_speed_normal">ပံုမွန္ျမန္ႏႈန္း</string>
+<string name="voicemail_speed_faster">ျမန္ဆန္ေသာျမန္ႏႈန္း</string>
+<string name="voicemail_speed_fastest">အျမန္ဆံုးျမန္ႏႈန္း</string>
+<string name="call_log_item_count_and_date">"(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g> "</string>
+<string name="sms_disambig_title">"နံပါတ္ကို ေရြးခ်ယ္ပါ"</string>
+<string name="call_disambig_title">"နံပါတ္ကို ေရြးခ်ယ္ပါ"</string>
+<string name="make_primary">ဤေ႐ြးခ်ယ္မႈကို မွတ္မိေစမည္</string>
+<string name="description_image_button_one">တစ္ခု</string>
+<string name="description_image_button_two">ႏွစ္</string>
+<string name="description_image_button_three">သံုး</string>
+<string name="description_image_button_four">ေလး</string>
+<string name="description_image_button_five">ငါး</string>
+<string name="description_image_button_six">ေျခာက္</string>
+<string name="description_image_button_seven">ခုနစ္</string>
+<string name="description_image_button_eight">ၢ႐ွစ္</string>
+<string name="description_image_button_nine">ကိုး</string>
+<string name="description_image_button_star">ၾကယ္</string>
+<string name="description_image_button_zero">သုည</string>
+<string name="description_image_button_pound">ေပါင္</string>
+<string name="description_voicemail_button">အသံေမးလ္</string>
+<string name="description_search_button">"႐ွာေဖြပါ"</string>
+<string name="description_dial_button">ဖုန္းေခါ ္</string>
+<string name="description_delete_button">ေနာက္သို႔</string>
+<string name="description_digits_edittext">ေခၚဆိုရန္ နံပါတ္</string>
+<string name="action_menu_call_history_description">"ဖုန္းမွတ္တမ္း"</string>
+<string name="action_menu_overflow_description">ေနာက္ထပ္ေ႐ြးစရာမ်ား</string>
+<string name="action_menu_dialpad_button">"ဖုန္းေခၚပက္"</string>
+<string name="menu_copy">ကူးယူပါ</string>
+<string name="menu_show_outgoing_only">"အထြက္ဖုန္း အတြက္သာ ေဖၚျပပါ"</string>
+<string name="menu_show_incoming_only">"အ၀င္ဖုန္း အတြက္သာ ေဖၚျပပါ"</string>
+<string name="menu_show_missed_only">"လက္မခံမိသည့္ဖုန္း အတြက္သာ ေဖၚျပပါ"</string>
+<string name="menu_show_voicemails_only">အသံေမးလ္မ်ားသာျပပါ</string>
+<string name="menu_show_all_calls">ဖုန္းေခၚဆိုမႈအားလံုးကို ျပပါ</string>
+<string name="add_2sec_pause">2 စကၠန္႔ခဏရပ္ျခင္းကို ထည့္ပါ</string>
+<string name="add_wait">ေစာင့္ဆိုင္းခ်က္ကို ထည့္ပါ</string>
+<string name="call_settings">ဖုန္း ဆက္တင္မ်ား</string>
+<string name="menu_newContact">ဖုန္းလိပ္စာအသစ္</string>
+<string name="menu_allContacts">ဖုန္းနံပါတ္အားလံုး</string>
+<string name="callDetailTitle">အေသးစိတ္ေခၚဆိုပါ</string>
+<string name="toast_call_detail_error">ေတာင္းဆိုထားေသာ ဖုန္းေခၚဆိုမႈအတြက္ အေသးစိတ္ကို မဖတ္ႏိုင္ပါ။</string>
+<string name="dialer_useDtmfDialpad">ထိလွ်င္အသံျမည္သည့္ ခလုတ္ခံုကို အသံုးျပဳပါ</string>
+<string name="dialer_returnToInCallScreen">ဖုန္းေခၚဆိုမႈသို႔ ျပန္သြားျခင္း လုပ္ေဆာင္ေနဆဲ</string>
+<string name="dialer_addAnotherCall">ေခၚဆိုမႈထည့္မည္</string>
+<string name="type_incoming">ဖုန်းအဝင်</string>
+<string name="type_outgoing">အထြက္ဖုန္းေခၚဆုိမႈ</string>
+<string name="type_missed">မေျဖဆိုထားေသာဖုန္း</string>
+<string name="type_voicemail">အသံေမးလ္</string>
+<string name="actionIncomingCall">အ၀င္ေခၚဆိုမႈမ်ား</string>
+<string name="description_call_log_play_button">အသံေမးလ္ဖြင့္ပါ</string>
+<string name="description_call_log_incoming_call">ဖုန်းအဝင်</string>
+<string name="description_call_log_outgoing_call">အထြက္ဖုန္းေခၚဆုိမႈ</string>
+<string name="description_call_log_missed_call">မေျဖဆိုထားေသာဖုန္း</string>
+<string name="description_call_log_voicemail">အသံေမးလ္</string>
+<string name="description_add_contact">ဖုန္းလိပ္စာထည့္မည္</string>
+<string name="description_view_contact">လိပ္စာ <xliff:g id="name">%1$s</xliff:g>အား ၾကည့္႐ႈပါ</string>
+<string name="description_call"><xliff:g id="name">%s</xliff:g> ေခၚပါ</string>
+<string name="description_send_text_message"><xliff:g id="name">%1$s</xliff:g> ထံသုိ႔ စာသားမက္ေဆ့ခ်္ ေပးပို႔ပါ</string>
+<string name="description_call_log_unheard_voicemail">မနားေထာင္ရေသးေသာ အသံေမးလ္</string>
+<string name="description_start_voice_search">အသံျဖင့္႐ွာေဖြျခင္းကို စတင္ပါ</string>
+<string name="call_log_empty_gecode">\u0020</string>
+<string name="menu_callNumber">"ဖုန္းေခၚ <xliff:g id="number">%s</xliff:g> "</string>
+<string name="unknown">"မသိ"</string>
+<string name="voicemail">အသံေမးလ္</string>
+<string name="private_num">သီးသန္႔ကိုယ္ပိုင္နံပါတ္</string>
+<string name="payphone">ၾကိဳတင္ေငြေပးဖုန္း</string>
+<string name="dialerKeyboardHintText">ႏွိပ္ရန္ ကီးဘုတ္ကို သံုးမည္</string>
+<string name="dialerDialpadHintText">ဖုန္းေခၚဆိုမႈထည့္ရန္ ႏွိပ္ပါ</string>
+<string name="callDetailsDurationFormat"><xliff:g id="minutes" example="42">%s</xliff:g> မိနစ္ <xliff:g id="seconds" example="28">%s</xliff:g> စကၠန္႔</string>
+<string name="dialog_phone_call_prohibited_message">ဖုန္းေခၚဆုိမႈမပို႔ပါ</string>
+<string name="dialog_voicemail_not_ready_message">"အသံေမးလ္နံပါတ္မေထာက္ပံ့:အသံေမးလ္ဆက္တင္သို့, မန္နူးသို့သြားဖုန္းဆက္တင္မ်ား."</string>
+<string name="dialog_voicemail_airplane_mode_message">"အသံေမးလ္ေခၚရန္၊ ေလယာဥ္မုတ္ကိုပိတ္ပါ."</string>
+<string name="contact_list_loading">ဖြင့္ေနဆဲ\u2026</string>
+<string name="imei">IMEI</string>
+<string name="simContacts_emptyLoading">SIM ကဒ္မွ ဖြင့္ေနဆဲ\u2026</string>
+<string name="simContacts_title">SIM ကဒ္ဖုန္းလိပ္စာမ်ား</string>
+<string name="add_contact_not_available">"ဤလက္ခဏာသံုးသည့္ လူထုေအပီပီကို ျပင္ဖြင့္ပါ."</string>
+<string name="dialer_hint_find_contact">"အမည္ (သို့) ဖုန္းနံပါတ္ ရိုက္ပါ"</string>
+<string name="call_log_all_title">အားလုံး</string>
+<string name="call_log_missed_title">လြတ္သြားေသာ</string>
+<string name="recentMissed_empty">"မျကာမီကလက္မခံမိသည့္ဖုန္းမရွိ."</string>
+<string name="recentVoicemails_empty">"မျကာမီကလက္မခံမိသည့္အသံဖုန္းမရွိ."</string>
+<string name="show_all_contacts">ဖုန္းလိပ္စာအားလံုးျပပါ</string>
+<string name="show_favorites_only">"အနွစ္သက္ဆံုးသာေဖၚျပပါ"</string>
+<string name="call_log_activity_title">မွတ္တမ္း</string>
+<string name="show_all_contacts_title">ဖုန္းနံပါတ္အားလံုး</string>
+<string name="show_all_contacts_button_text">ဖုန္းနံပါတ္အားလံုး</string>
+<string name="favorite_hidden">"အနွစ္သက္ဆံုးမ်ားမွ ပယ္ဖ်က္ပါ"</string>
+<string name="favorite_hidden_undo">"အန္ဒို"</string>
+<string name="search_shortcut_call_number">"ဖုန္းေခၚ <xliff:g id="number">%s</xliff:g> "</string>
+<string name="search_shortcut_add_to_contacts">ဆက္သြယ္သူသို ့ထည့္</string>
+<string name="num_missed_calls">"<xliff:g id="number">%s</xliff:g> လက္မခံမိသည့္ဖုန္းအသစ္မ်ား"</string>
+<string name="no_favorites">"အနွစ္သက္ဆံုး &amp; သင့္ကိုဆက္သြယ္သူမ်ား \n မျကာခဏေခၚသည့္ဖုန္း\n ထို့ေျကာင့္, ဖုန္းစေခၚေန."</string>
+<string name="contact_tooltip">"နံပါတ္အားလံုးျကည့္ရန္ဓါတ္ပံုကို ေခါက္ပါ (သို့) ရီေအာ္ဒါရန္ ဖိ ျပီး ကိုင္ပါ"</string>
+<string name="description_dismiss">ခ်န္လွပ္ထားသည္</string>
+</resources>

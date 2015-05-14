@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"الصادرة"</string>
+<string name="call_log_incoming_title">"الواردة"</string>
+<string name="recentOutgoing_empty">"لا توجد إتصالات صادرة مؤخرا."</string>
+<string name="recentIncoming_empty">"لا توجد إتصالات واردة مؤخرا."</string>
+<string name="view_setting">"إستعراض"</string>
+<string name="item_all_calls">"جميع سجلات الإتصال"</string>
+<string name="item_sim_calls">"سجلات الإتصال SIM%d"</string>
+<string name="clear_all_call_log">"مسح جميع سجلات الإتصال"</string>
+<string name="clear_selected_call_log">"مسح سجلات الإتصال المختارة"</string>
+<string name="select_all">"حدد الكل"</string>
+<string name="unselect_all">"إلغاء إختيار الكل"</string>
+<string name="sdn_list">"قائمة SDN"</string>
+<string name="lnd_list">"قائمة LND"</string>
+<string name="sim_no_ready">"بطاقة Sim غير جاهزة."</string>
+<string name="select_card">"من فضلك إختر البطاقة"</string>
+<string name="fast_dial_settings">"إعدادات الإتصال السريع"</string>
+<string name="call_ip">"إتصال IP"</string>
+<string name="ip_callNumber_by_sim_ex">"إتصال IP <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"لا توجد أرقام متوفرة"</string>
+<string name="send_mms">"إرسال رسالة"</string>
+<string name="no_fast_dial">"رقم هاتف الإتصال السريع غير محدد"</string>
+<string name="menu_addToBlacklist">"إضافة إلى القائمة السوداء"</string>
+<string name="call_log_callNumber_by_sim_ex">"إتصال<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"إتصال فيديو<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"إتصال IP <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"إستعراض جهة إتصال"</string>
+<string name="menu_deleteFromBlacklist">"حذف من القائمة السوداء"</string>
+<string name="success_addToBlacklist">"نجاح الإضافة"</string>
+<string name="failed_addToBlacklist">"فشل الإضافة"</string>
+<string name="delete_calls">"حذف"</string>
+<string name="delete_selected_calls">"هل أنت متأكد أنك تريد حذف التسجيلات المختارة"</string>
+<string name="delete_all_calls_confirm">"هل تريد حذف جميع تسجيلاتك؟"</string>
+<string name="delete_contact_all_calls">"هل أنت متأكد أنك تريد حذف سجلات الإتصال التي بقائمة جهة الإتصال ؟"</string>
+<string name="call_log_contacts_not_save">"غير معروف"</string>
+<string name="toast_no_activity_to_handle_intent">"لا يوجد تطبيق للإستجابة!"</string>
+<string name="search_description">"البحث في سجل الإتصال"</string>
+<string name="doneButton">"تم"</string>
+<string name="cancel">"إلغاء"</string>
+<string name="select_all_sprd">"حدد الكل"</string>
+<string name="sim_no_effect">"إبطال SIM"</string>
+<string name="delete_success">"نجاح الحذف"</string>
+<string name="error_icc_lock_dialog_message">" تم إقفال بطاقة SIM المختارة الآن"</string>
+<string name="insert_sim_card">"من فضلك قم بإدخال بطاقة SIM"</string>
+<string name="simx">"SIM"</string>
+</resources>

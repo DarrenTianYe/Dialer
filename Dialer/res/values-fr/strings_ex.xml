@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Sortant"</string>
+<string name="call_log_incoming_title">"Entrant"</string>
+<string name="recentOutgoing_empty">"Aucun appel sortant récent."</string>
+<string name="recentIncoming_empty">"Aucun appel entrant récent."</string>
+<string name="view_setting">"Voir"</string>
+<string name="item_all_calls">"Tous les registres d\'appel"</string>
+<string name="item_sim_calls">"SIM<xliff:g id="COUNT">%1$s</xliff:g> Réglages"</string>
+<string name="clear_all_call_log">"Supprimer tout le registre d\'appel"</string>
+<string name="clear_selected_call_log">"Supprimer les éléments sélectionnés du registre d\'appel"</string>
+<string name="select_all">"Tout sélectionner"</string>
+<string name="unselect_all">"Tout désélectionner"</string>
+<string name="sdn_list">"Liste SDN"</string>
+<string name="lnd_list">"Liste LND"</string>
+<string name="sim_no_ready">"Carte SIM pas prête"</string>
+<string name="select_card">"Merci de sélectionner une carte"</string>
+<string name="fast_dial_settings">"Préférences numérotation rapide"</string>
+<string name="call_ip">"Appel IP"</string>
+<string name="ip_callNumber_by_sim_ex">"Appel IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Aucun numéro disponible"</string>
+<string name="send_mms">"Envoyer message"</string>
+<string name="no_fast_dial">"Numéro d\'appel rapide non défini"</string>
+<string name="menu_addToBlacklist">"Ajouter à la liste noire"</string>
+<string name="call_log_callNumber_by_sim_ex">"Appeler<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Appel vidéo<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"Appel IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Voir contact"</string>
+<string name="menu_deleteFromBlacklist">"Supprimer de la liste noire"</string>
+<string name="success_addToBlacklist">"L\'ajout a réussi"</string>
+<string name="failed_addToBlacklist">"L\'ajout a échoué"</string>
+<string name="delete_calls">"Supprimer"</string>
+<string name="delete_selected_calls">"Voulez-vous vraiment supprimer les données sélectionnées"</string>
+<string name="delete_all_calls_confirm">"Voulez-vous supprimer tous vos enregistrements ?"</string>
+<string name="delete_contact_all_calls">"Voulez-vous vraiment supprimer le registre d\'appel des contacts listés ?"</string>
+<string name="call_log_contacts_not_save">"Inconnu"</string>
+<string name="toast_no_activity_to_handle_intent">"Pas de réponse de l\'application !"</string>
+<string name="search_description">"Rechercher registre d\'appel"</string>
+<string name="doneButton">"Effectué"</string>
+<string name="cancel">"Annuler"</string>
+<string name="select_all_sprd">"Tout sélectionner"</string>
+<string name="sim_no_effect">"SIM invalidée"</string>
+<string name="delete_success">"Suppression réussie"</string>
+<string name="error_icc_lock_dialog_message">"La carte SIM sélectionnée est désormais verrouillée."</string>
+<string name="insert_sim_card">"Merci d\'insérer une carte SIM"</string>
+<string name="simx">"SIM"</string>
+</resources>

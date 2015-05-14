@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Masu fita"</string>
+<string name="call_log_incoming_title">"Mai shigowa"</string>
+<string name="recentOutgoing_empty">"Ba kira mai fita na bayan nan."</string>
+<string name="recentIncoming_empty">"Ba kira mai shigowa na bayan nan."</string>
+<string name="view_setting">"Gani"</string>
+<string name="item_all_calls">"Duk jerin kira"</string>
+<string name="item_sim_calls">"SIM%d jerin kira"</string>
+<string name="clear_all_call_log">"Share duk jerin kira"</string>
+<string name="clear_selected_call_log">"Share jerin kira da aka zaba"</string>
+<string name="select_all">"Zabi duk"</string>
+<string name="unselect_all">"Cire zaben duk"</string>
+<string name="sdn_list">"Jerin SDN"</string>
+<string name="lnd_list">"Jerin LND"</string>
+<string name="sim_no_ready">"Katin Sim ba a shirye yake ba"</string>
+<string name="select_card">"Ka zabi kati"</string>
+<string name="fast_dial_settings">"Saitocin yin kiran sauri"</string>
+<string name="call_ip">"Kiran IP"</string>
+<string name="ip_callNumber_by_sim_ex">"Kiran IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Babu lambobi"</string>
+<string name="send_mms">"Aika sako"</string>
+<string name="no_fast_dial">"Ba a saita kiran lambar waya da sauri ba"</string>
+<string name="menu_addToBlacklist">"Kara ga jerin da ba a so"</string>
+<string name="call_log_callNumber_by_sim_ex">"Kira<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Kiran bidiyo<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"Kiran IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Duba lambar kira"</string>
+<string name="menu_deleteFromBlacklist">"Goge daga jerin da ba a so"</string>
+<string name="success_addToBlacklist">"Kara nasara"</string>
+<string name="failed_addToBlacklist">"Karin ya gaza"</string>
+<string name="delete_calls">"Goge"</string>
+<string name="delete_selected_calls">"Ka tabbatar a goge rekod da ka zaba"</string>
+<string name="delete_all_calls_confirm">"Kana so ka goge duk rekod naka?"</string>
+<string name="delete_contact_all_calls">"Ka tabbatar a goge jerin lambobin da aka kira?"</string>
+<string name="call_log_contacts_not_save">"Majahuli"</string>
+<string name="toast_no_activity_to_handle_intent">"Ba masarrafin martani!"</string>
+<string name="search_description">"Binciken jerin lambobin kira"</string>
+<string name="doneButton">"An yi"</string>
+<string name="cancel">"Soke"</string>
+<string name="select_all_sprd">"Zabi duk"</string>
+<string name="sim_no_effect">"SIM ba shi da kyau"</string>
+<string name="delete_success">"Gogewa da nasara"</string>
+<string name="error_icc_lock_dialog_message">"Katin SIM da aka zaba a rufe yake yanzu."</string>
+<string name="insert_sim_card">"Ka sa katin SIM."</string>
+<string name="simx">"SIM"</string>
+</resources>

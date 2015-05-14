@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Keluar"</string>
+<string name="call_log_incoming_title">"Masuk"</string>
+<string name="recentOutgoing_empty">"Tiada panggilan keluar baru-baru ini."</string>
+<string name="recentIncoming_empty">"Tiada panggilan masuk baru-baru ini."</string>
+<string name="view_setting">"Lihat"</string>
+<string name="item_all_calls">"Semua log panggilan"</string>
+<string name="item_sim_calls">"SIM%d log panggilan"</string>
+<string name="clear_all_call_log">"Kosongkan semua log panggilan"</string>
+<string name="clear_selected_call_log">"Buang log panggilan yang dipilih"</string>
+<string name="select_all">"Pilih Semua"</string>
+<string name="unselect_all">"Nyah pilih semua"</string>
+<string name="sdn_list">"Senarai SDN"</string>
+<string name="lnd_list">"Senarai LND"</string>
+<string name="sim_no_ready">"Kad Sim belum boleh digunakan."</string>
+<string name="select_card">"Sila pilih kad"</string>
+<string name="fast_dial_settings">"tetapan dail pantas"</string>
+<string name="call_ip">"Panggilan IP"</string>
+<string name="ip_callNumber_by_sim_ex">"Panggilan IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Tiada nombor tersedia"</string>
+<string name="send_mms">"Hantar Mesej"</string>
+<string name="no_fast_dial">"Nombor telefon panggilan pantas tidak ditetapkan"</string>
+<string name="menu_addToBlacklist">"Tambah ke senarai hitam"</string>
+<string name="call_log_callNumber_by_sim_ex">"Panggilan<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Panggilan Video<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Lihat kenalan"</string>
+<string name="menu_deleteFromBlacklist">"Padam dari senarai hitam"</string>
+<string name="success_addToBlacklist">"Tambah berjaya"</string>
+<string name="failed_addToBlacklist">"Tambah gagal"</string>
+<string name="delete_calls">"Hapus"</string>
+<string name="delete_selected_calls">"Adakah anda pasti mahu memadam rekod yang dipilih"</string>
+<string name="delete_all_calls_confirm">"Adakah anda mahu memadam kesemua rekod milik anda?"</string>
+<string name="delete_contact_all_calls">"Adakah anda pasti untuk memadam log panggilan tersenarai kenalan?"</string>
+<string name="call_log_contacts_not_save">"Tidak diketahui"</string>
+<string name="toast_no_activity_to_handle_intent">"Tiada Aplikasi untuk jawapan!"</string>
+<string name="search_description">"Carian Log panggilan"</string>
+<string name="doneButton">"Selesai"</string>
+<string name="cancel">"Batal"</string>
+<string name="select_all_sprd">"Pilih Semua"</string>
+<string name="sim_no_effect">"SIM tidak sah"</string>
+<string name="delete_success">"Memadam berjaya"</string>
+<string name="error_icc_lock_dialog_message">"Kad SIM yang dipilih kini dikunci."</string>
+<string name="insert_sim_card">"Sila masukkan kad SIM."</string>
+<string name="simx">"SIM"</string>
+</resources>

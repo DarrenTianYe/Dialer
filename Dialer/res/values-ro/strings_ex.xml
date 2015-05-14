@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Expediate"</string>
+<string name="call_log_incoming_title">"Primire apel"</string>
+<string name="recentOutgoing_empty">"Nu există apeluri formate recente."</string>
+<string name="recentIncoming_empty">"Nu există apeluri primite recente."</string>
+<string name="view_setting">"Vizualizare"</string>
+<string name="item_all_calls">"Jurnalul tuturor apelurilor"</string>
+<string name="item_sim_calls">"Registru apeluri SIM%d"</string>
+<string name="clear_all_call_log">"Şterge toate jurnalele de apeluri"</string>
+<string name="clear_selected_call_log">"Şterge registrul de apeluri selectat"</string>
+<string name="select_all">"Selectare toate"</string>
+<string name="unselect_all">"Deselectează totul"</string>
+<string name="sdn_list">"lista SDN "</string>
+<string name="lnd_list">"lista LND "</string>
+<string name="sim_no_ready">"Cardul sim nu este gata"</string>
+<string name="select_card">"Va rugam selectati cardul"</string>
+<string name="fast_dial_settings">"setări apel rapid"</string>
+<string name="call_ip">"Apel IP"</string>
+<string name="ip_callNumber_by_sim_ex">"IP apel<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Nu sunt numere disponibile"</string>
+<string name="send_mms">"Trimiteti mesaj"</string>
+<string name="no_fast_dial">"Numărul de apelare rapidă nu este setat"</string>
+<string name="menu_addToBlacklist">"Adaugă la lista neagră"</string>
+<string name="call_log_callNumber_by_sim_ex">"Apelează<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Apel Video<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Vizualizare contact"</string>
+<string name="menu_deleteFromBlacklist">"Stergeti din lista neagra"</string>
+<string name="success_addToBlacklist">"Adaugare cu succes"</string>
+<string name="failed_addToBlacklist">"Adaudare esuata"</string>
+<string name="delete_calls">"Ştergere"</string>
+<string name="delete_selected_calls">"Sigur doriţi să ştergeţi înregistrările selectate?"</string>
+<string name="delete_all_calls_confirm">"Confirmaţi că doriţi să ştergeţi înregistrările selectate?"</string>
+<string name="delete_contact_all_calls">"Sigur doriţi să ştergeţi toate apelurile contactului selectat?"</string>
+<string name="call_log_contacts_not_save">"Necunoscut"</string>
+<string name="toast_no_activity_to_handle_intent">"Nicio aplicaţie nu răspunde!"</string>
+<string name="search_description">"cautati Jurnalul de apeluri "</string>
+<string name="doneButton">"Terminat"</string>
+<string name="cancel">"Anulare"</string>
+<string name="select_all_sprd">"Selectare toate"</string>
+<string name="sim_no_effect">"Cartela SIM nu este valabilă"</string>
+<string name="delete_success">"Stergere cu succes"</string>
+<string name="error_icc_lock_dialog_message">"Cartela SIM selectată este acum blocată."</string>
+<string name="insert_sim_card">"Vă rugăm să introduceţi cartela SIM."</string>
+<string name="simx">"SIM"</string>
+</resources>

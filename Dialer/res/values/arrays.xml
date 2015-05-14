@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="call_priority_entries">
+        <item>@string/trunking_call_priority_normal</item>
+        <item>@string/trunking_call_priority_level_1</item>
+        <item>@string/trunking_call_priority_level_2</item>
+        <item>@string/trunking_call_priority_level_3</item>
+        <item>@string/trunking_call_priority_emergency</item>
+        <item>@string/trunking_call_property_broadcast</item>
+    </string-array>
+
+</resources>

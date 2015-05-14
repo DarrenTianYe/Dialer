@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"అవుట్ గోయింగ్"</string>
+<string name="call_log_incoming_title">"ఇన్కమింగ్"</string>
+<string name="recentOutgoing_empty">"ఈ మధ్య అవుట్ గోయింగ్ కాల్స్ ఏమీ లేవు."</string>
+<string name="recentIncoming_empty">"ఈ మధ్య ఇన్కమింగ్ కాల్స్ లేవు."</string>
+<string name="view_setting">"వ్యూ"</string>
+<string name="item_all_calls">"అన్ని కాల్ లాగ్స్"</string>
+<string name="item_sim_calls">"SIM%d కాల్ లాగ్స్"</string>
+<string name="clear_all_call_log">"అన్ని కాల్ లాగ్స్ ను క్లియర్ చేయండి"</string>
+<string name="clear_selected_call_log">"ఎంపిక చేయబడిన కాల్ లాగ్ క్లియర్ చేయండి"</string>
+<string name="select_all">"సిలెక్ట్ అల"</string>
+<string name="unselect_all">"అన్నిటినీ డీసెలెక్ట్ చేయండి"</string>
+<string name="sdn_list">"SDN లిస్ట్"</string>
+<string name="lnd_list">"LND లిస్ట్"</string>
+<string name="sim_no_ready">"సిమ్ కార్డ్ సిద్ధముగా లేదు."</string>
+<string name="select_card">"దయచేసి కార్డ్ ఎంపిక చేయండి"</string>
+<string name="fast_dial_settings">"వేగమైన డయల్ సెట్టింగ్స్"</string>
+<string name="call_ip">"IP కాల్"</string>
+<string name="ip_callNumber_by_sim_ex">"IP కాల్<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"నంబర్లు అందుబాటులో లేవు"</string>
+<string name="send_mms">"మెసేజ్ పంపండి"</string>
+<string name="no_fast_dial">"వేగమైన కాల్ ఫోన్ నంబర్ సెట్ చేయబడలేదు"</string>
+<string name="menu_addToBlacklist">"బ్లాక్ లిస్ట్ కు యాడ్ చేయండి"</string>
+<string name="call_log_callNumber_by_sim_ex">"కాల్<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"వీడియో కాల్<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"కాంటాక్ట్ చూడండి"</string>
+<string name="menu_deleteFromBlacklist">"బ్లాక్ లిస్ట్ నుంచి డిలీట్ చేయండి"</string>
+<string name="success_addToBlacklist">"సక్సెస్ యాడ్ చేయండి"</string>
+<string name="failed_addToBlacklist">"ఫెయిల్డ్ యాడ్ చేయండి"</string>
+<string name="delete_calls">"డిలీట్"</string>
+<string name="delete_selected_calls">"ఎంపిక చేయబడిన రికార్డ్స్ డిలీట్ చేయాలి అని మీరు ధృవీకరించుకున్నారా?"</string>
+<string name="delete_all_calls_confirm">"మీరు మీ యొక్క అన్ని రికార్డ్స్ ను డిలీట్ చేయాలి అని అనుకుంటున్నారా?"</string>
+<string name="delete_contact_all_calls">"కాల్ లాగ్స్ లో లిస్ట్ చేయబడిన కాంటాక్ట్స్ ను మీరు డిలీట్ చేయాలి అని ధృవీకరించుకున్నారా?"</string>
+<string name="call_log_contacts_not_save">"తెలియనిది"</string>
+<string name="toast_no_activity_to_handle_intent">"జవాబు ఇవ్వడానికి అప్లికేషన్ లేదు!"</string>
+<string name="search_description">"కాల్ లాగ్ వెదకండి"</string>
+<string name="doneButton">"అయింది"</string>
+<string name="cancel">"కాన్సిల్"</string>
+<string name="select_all_sprd">"సిలెక్ట్ అల"</string>
+<string name="sim_no_effect">"SIM ఇన్వాలీడ్ డేట్"</string>
+<string name="delete_success">"సక్సెస్ డిలీట్ చేయండి"</string>
+<string name="error_icc_lock_dialog_message">"ఎంపిక చేయబడిన SIM కార్డ్ ఇప్పుడు లాక్ చేయబడింది."</string>
+<string name="insert_sim_card">"దయచేసి SIM కార్డ్ ఇప్పుడు ఇన్సర్ట్ చేయండి."</string>
+<string name="simx">"SIM"</string>
+</resources>

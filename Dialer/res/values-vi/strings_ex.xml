@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Đi"</string>
+<string name="call_log_incoming_title">"Đến"</string>
+<string name="recentOutgoing_empty">"Không có cuộc gọi đi gần đây."</string>
+<string name="recentIncoming_empty">"Không có cuộc gọi đến gần đây."</string>
+<string name="view_setting">"Xem"</string>
+<string name="item_all_calls">"Tất cả nhật ký cuộc gọi"</string>
+<string name="item_sim_calls">"Nhật ký cuộc gọi SIM%d"</string>
+<string name="clear_all_call_log">"Xóa tất cả nhật ký cuộc gọi"</string>
+<string name="clear_selected_call_log">"Xóa nhật ký cuộc gọi được chọn"</string>
+<string name="select_all">"Chọn Tất cả"</string>
+<string name="unselect_all">"Bỏ chọn tất cả"</string>
+<string name="sdn_list">"Danh sách SDN"</string>
+<string name="lnd_list">"Danh sách LND"</string>
+<string name="sim_no_ready">"Thẻ SIM chưa sẵn sàng."</string>
+<string name="select_card">"Hãy chọn thẻ"</string>
+<string name="fast_dial_settings">"Thiết đặt quay số nhanh"</string>
+<string name="call_ip">"Cuộc gọi IP"</string>
+<string name="ip_callNumber_by_sim_ex">"Cuộc gọi IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Không có số khả dụng"</string>
+<string name="send_mms">"Gửi tin nhắn"</string>
+<string name="no_fast_dial">"Số điện thoại cuộc gọi nhanh chưa được đặt"</string>
+<string name="menu_addToBlacklist">"Thêm vào danh sách đen"</string>
+<string name="call_log_callNumber_by_sim_ex">"Gọi<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Gọi Video<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"Cuộc gọi IP<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Xem liên hệ"</string>
+<string name="menu_deleteFromBlacklist">"Xóa khỏi danh sách đen"</string>
+<string name="success_addToBlacklist">"Thêm thành công"</string>
+<string name="failed_addToBlacklist">"Thêm thất bại"</string>
+<string name="delete_calls">"Xóa"</string>
+<string name="delete_selected_calls">"Bạn có chắc muốn xóa các bản ghi đã chọn hay không"</string>
+<string name="delete_all_calls_confirm">"Bạn có muốn xóa tất cả bản ghi của bạn hay không?"</string>
+<string name="delete_contact_all_calls">"Bạn có chắc muốn xóa nhật ký cuộc gọi được liệt kê của liên hệ hay không?"</string>
+<string name="call_log_contacts_not_save">"Không biết"</string>
+<string name="toast_no_activity_to_handle_intent">"Không có Ứng dụng phản hồi!"</string>
+<string name="search_description">"Tìm kiếm nhật ký cuộc gọi"</string>
+<string name="doneButton">"Xong"</string>
+<string name="cancel">"Hủy"</string>
+<string name="select_all_sprd">"Chọn Tất cả"</string>
+<string name="sim_no_effect">"Vô hiệu hóa SIM"</string>
+<string name="delete_success">"Xóa thành công"</string>
+<string name="error_icc_lock_dialog_message">"Thẻ SIM đã chọn hiện bị khóa."</string>
+<string name="insert_sim_card">"Hãy đút thẻ SIM."</string>
+<string name="simx">"SIM"</string>
+</resources>

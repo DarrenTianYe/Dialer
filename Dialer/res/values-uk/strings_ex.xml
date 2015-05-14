@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Вихідні "</string>
+<string name="call_log_incoming_title">"Вхідні"</string>
+<string name="recentOutgoing_empty">"Жодних останніх вихідних дзвінків."</string>
+<string name="recentIncoming_empty">"Жодних останніх вхідних дзвінків."</string>
+<string name="view_setting">"Вид"</string>
+<string name="item_all_calls">"Усі журнали викликів"</string>
+<string name="item_sim_calls">"Журнали викликів SIM %d"</string>
+<string name="clear_all_call_log">"Видалити всі журнали викликів"</string>
+<string name="clear_selected_call_log">"Видалити обраний журнал викликів"</string>
+<string name="select_all">"Вибрати все"</string>
+<string name="unselect_all">"Відмінити вибір"</string>
+<string name="sdn_list">"Список SDN"</string>
+<string name="lnd_list">"Список LDN"</string>
+<string name="sim_no_ready">"SIM-карта не готова"</string>
+<string name="select_card">"Будь ласка, виберіть карту "</string>
+<string name="fast_dial_settings">"Налаштування швидкого набору"</string>
+<string name="call_ip">"IP-виклик"</string>
+<string name="ip_callNumber_by_sim_ex">"IP-виклик<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="no_available_number">"Немає доступних номерів "</string>
+<string name="send_mms">"Відіслати повідомлення"</string>
+<string name="no_fast_dial">"Номер швидкого виклику не встановлений "</string>
+<string name="menu_addToBlacklist">"Додати до чорного списку"</string>
+<string name="call_log_callNumber_by_sim_ex">"Виклик<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"Відеовиклик<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP-виклик<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="menu_viewContact">"Перегляyти контакт "</string>
+<string name="menu_deleteFromBlacklist">"Видалити з чорного списку "</string>
+<string name="success_addToBlacklist">"Успішно додано"</string>
+<string name="failed_addToBlacklist">"Не вдалося додати "</string>
+<string name="delete_calls">"Видалити"</string>
+<string name="delete_selected_calls">"Ви дійсно хочете видалити обрані записи?"</string>
+<string name="delete_all_calls_confirm">"Ви хочете видалити усі Ваші записи?"</string>
+<string name="delete_contact_all_calls">"Ви дійсно хочете видалити перераховані записи викликів цього контакту?"</string>
+<string name="call_log_contacts_not_save">"Невідомий"</string>
+<string name="toast_no_activity_to_handle_intent">"Немає додатків для відгуку!"</string>
+<string name="search_description">"Пошук журналу дзвінків"</string>
+<string name="doneButton">"Виконано"</string>
+<string name="cancel">"Відхілити"</string>
+<string name="select_all_sprd">"Вибрати все"</string>
+<string name="sim_no_effect">"SIM-карта не дійсна"</string>
+<string name="delete_success">"Успішно видалено"</string>
+<string name="error_icc_lock_dialog_message">"Обрана SIM-карта на даний час заблокована. "</string>
+<string name="insert_sim_card">"Будь ласка, вставте SIM-карту."</string>
+<string name="simx">"SIM"</string>
+</resources>
